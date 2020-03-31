@@ -1,0 +1,1652 @@
+{
+    "editions": [{
+        "weight": "1.3 pounds",
+        "covers": [6299970, 6299970],
+        "latest_revision": 6,
+        "ocaid": "dragonheir00chim_1",
+        "subjects": ["Children's Books -- Literature -- Action & Adventure", "Children's Books -- Literature -- Science Fiction, Fantasy, Mystery & Horror -- Science Fiction, Fantasy, & Magic", "Children's Books -- People & Places -- Social Situations -- Values", "Teens -- Literature & Fiction -- Adventure & Thrillers", "Teens -- Science Fiction & Fantasy -- Fantasy", "Teens -- Science Fiction & Fantasy -- Science Fiction", "Teens -- Social Issues"],
+        "source_records": ["amazon:1423110714", "marc:marc_loc_updates/v40.i27.records.utf8:6033598:1310", "ia:dragonheir00chim_1", "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run03.mrc:285277570:3884"],
+        "title": "Dragon Heir",
+        "local_id": ["urn:sfpl:31223104372678", "urn:sfpl:31223083570672"],
+        "oclc_numbers": ["320191124"],
+        "type": {
+            "key": "/type/edition"
+        },
+        "physical_dimensions": "8.3 x 5.5 x 1.2 inches",
+        "revision": 6,
+        "publishers": ["Hyperion Book CH"],
+        "physical_format": "Paperback",
+        "last_modified": {
+            "type": "/type/datetime",
+            "value": "2019-07-16T05:18:17.872057"
+        },
+        "key": "/books/OL24089023M",
+        "authors": [{
+            "key": "/authors/OL1435789A"
+        }],
+        "created": {
+            "type": "/type/datetime",
+            "value": "2010-03-12T03:09:18.928786"
+        },
+        "number_of_pages": 528,
+        "isbn_13": ["9781423110712"],
+        "isbn_10": ["1423110714"],
+        "publish_date": "September 1, 2009",
+        "works": [{
+            "key": "/works/OL16693303W"
+        }]
+    }] {
+        "description": "Percy Jackson is a good kid, but he can\u2019t seem to focus on his schoolwork or control his temper. And lately, being away at boarding school is only getting worse-Percy could have sworn his pre-algebra teacher turned into a monster and tried to kill him.\r\n\r\nWhen Percy\u2019s mom finds out, she knows it\u2019s time that he knew the truth about where he came from, and that he go to the one place he\u2019ll be safe. She sends Percy to Camp Half Blood, a summer camp for demigods (on Long Island), where he learns that the father he never knew is Poseidon, God of the Sea.\r\n\r\nSoon a mystery unfolds and together with his friends \u2014 one a satyr and the other the demigod daughter of Athena \u2014 Percy sets out on a quest across the United States to reach the gates of the Underworld (located in a recording studio in Hollywood) and prevent a catastrophic war between the gods.",
+        "links": [{
+            "url": "http://www.imdb.com/title/tt0814255",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Percy Jackson & The Olympians: The lightning thief (2010) (movie)"
+        }],
+        "title": "The lightning thief",
+        "created": {
+            "type": "/type/datetime",
+            "value": "2015-07-22T13:53:50.289424"
+        },
+        "covers": [7357496],
+        "subject_places": ["New York", "Manhattan"],
+        "last_modified": {
+            "type": "/type/datetime",
+            "value": "2015-07-22T14:52:49.209655"
+        },
+        "subject_people": ["Percy Jackson", "Annabeth Chase", "Grover Underwood", "Luke Castellan", "Clarisse La Rue", "Chiron", "Mr. Bunner", "Argos", "Caronte", "Dionysus", "Poseidon", "Ares", "Hades", "Zeus", "Sally Jackson", "Gabe Ugliano", "Nancy Bobofit", "Kronos", "Alecto", "Mrs. Dodds", "Furies", "Minotaur", "Medusa", "Chimera", "Procrustes", "Cerberus", "Scorpion", "Crust"],
+        "key": "/works/OL17176650W",
+        "authors": [{
+            "type": {
+                "key": "/type/author_role"
+            },
+            "author": {
+                "key": "/authors/OL30765A"
+            }
+        }],
+        "latest_revision": 7,
+        "type": {
+            "key": "/type/work"
+        },
+        "subjects": ["American Literature", "Young Adult Literature", "Children's Literature", "Greek Mythology", "Mythology", "Fiction", "Fantasy", "Urban Fantasy", "Adventure", "2005"],
+        "revision": 7
+    }
+} {
+    "description": "THE RETURN OF THE KING, which brings to a close the great epic of war and adventure begun in The Fellowship of the Ring and continued in The Two Towers, is the third and final part of J. R. R. Tolkien's masterpiece, \"The Lord of the Rings.\"\r\n\r\nIn these three books, which form one continuous narrative, Tolkien created the saga of the Hobbits of Middle-earth and the great War of the Rings. Praised by such writers and poets as W. H. Auden, Richard Hughes and C. S. Lewis, \"The Lord of the Rings\" - that special world of beauty and terror and meaning - holds a secure place among the books that will live.\r\n\r\n----------\r\n**Also contained in:**\r\n\r\n - [The Lord of the Rings][1]\r\n\r\n\r\n  [1]: https://openlibrary.org/works/OL27448W/The_Lord_of_the_Rings",
+    "links": [{
+        "url": "https://en.wikipedia.org/wiki/The_Return_of_the_King",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "The Return of The King - Wikipedia"
+    }],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T02:46:28.838662"
+    },
+    "title": "Return of the King",
+    "covers": [8302846],
+    "subject_places": ["Middle Earth (Imaginary place)", "Barad-dur", "Minas Tirith", "Lorien", "Erebor", "Middle Earth", "Edoras", "Isengard", "Fangorn Forest", "Mordor", "Gondor", "Rohan", "Ithilien", "Osgiliath", "Mount Doom", "Rivendell", "the Shire", "Bree", "Bag End"],
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL26320A"
+        }
+    }],
+    "first_publish_date": "1955",
+    "subject_people": ["Aragorn", "Elendil", "Dwarves", "Frodo Baggins", "The Dunedain", "Gandalf", "Sauron", "Pippin", "Meriadoc", "Umbar", "Denethor", "Boromir", "Faramir", "Saruman", "Legolas", "Gimli", "Beregond", "Eorl", "King Th\u00e9oden", "Gollum", "Shelob", "Rosie Cotton", "Gr\u00edma", "Bombadil", "Shadowfax", "\u00c9omer", "Merry", "\u00c9owyn", "Samwise", "Arwen", "Elrond"],
+    "key": "/works/OL27516W",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-09T15:29:09.942271"
+    },
+    "latest_revision": 59,
+    "subject_times": ["The End of the Third Age"],
+    "subjects": ["Elves", "Hobbits", "The Lord of the Rings", "hope", "fear", "magic", "Fiction", "Fantasy", "English Fantasy fiction", "Juvenile fiction", "Fantastic fiction", "Textual Criticism", "Middle Earth (Imaginary place)", "Chinese language materials", "Adventure", "Fantasy fiction"],
+    "type": {
+        "key": "/type/work"
+    },
+    "excerpts": [{
+        "comment": "first sentence",
+        "excerpt": "Pippin looked out from the shelter of Gandalf's cloak.",
+        "author": {
+            "key": "/people/seabelis"
+        }
+    }],
+    "revision": 59
+}
+
+{
+    "first_publish_date": "2007",
+    "description": {
+        "type": "/type/text",
+        "value": "n one of the most unique memoirs of addiction ever published, M\u00f6tley Cr\u00fce's Nikki Sixx shares mesmerizing diary entries from the year he spiraled out of control in a haze of heroin and cocaine, presented alongside riveting commentary from people who were there at the time, and from Nikki himself.\r\n\r\nWhen M\u00f6tley Cr\u00fce was at the height of its fame, there wasn't any drug Nikki Sixx wouldn't do. He spent days -- sometimes alone, sometimes with other addicts, friends, and lovers -- in a coke and heroin-fueled daze. The highs were high, and Nikki's journal entries reveal some euphoria and joy. But the lows were lower, often ending with Nikki in his closet, surrounded by drug paraphernalia and wrapped in paranoid delusions.\r\n\r\nHere, Nikki shares those diary entries -- some poetic, some scatterbrained, some bizarre -- and reflects on that time. Joining him are Tommy Lee, Vince Neil, Mick Mars, Slash, Rick Nielsen, Bob Rock, and a host of ex-managers, ex-lovers, and more.\r\n\r\nBrutally honest, utterly riveting, and shockingly moving, The Heroin Diaries follows Nikki during the year he plunged to rock bottom -- and his courageous decision to pick himself up and start living again."
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-15T18:13:43.595752"
+    },
+    "title": "The heroin diaries",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-11T06:46:02.705514"
+    },
+    "covers": [5408170],
+    "subject_places": ["United States"],
+    "lc_classifications": ["ML419.S614 A3 2007"],
+    "subject_people": ["Nikki Sixx (1958-)", "Nikki Sixx"],
+    "key": "/works/OL12375700W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL5441460A"
+        }
+    }],
+    "latest_revision": 6,
+    "dewey_number": ["782.42166/092", "B"],
+    "subjects": ["Autobiography", "Biography", "Drug addiction", "Rock music", "Rock musicians", "Drug addicts", "M\u00f6tley Cr\u00fce (Musical group)"],
+    "type": {
+        "key": "/type/work"
+    },
+    "subject_times": ["latter 20th Century", "into 21st Century"],
+    "revision": 6
+}
+
+{
+    "description": {
+        "type": "/type/text",
+        "value": "When Thomas wakes up in the lift, the only thing he can remember is his first name.  His memory is blank.  But he's not alone.  When the lift's doors open, Thomas finds himself surrounded by kids who welcome him to the Glade--a large, open expanse surrounded by stone walls.  Just like Thomas, the Gladers don't know why or how they got to the Glade.  All they know is that every morning the stone doors to the maze that surrounds them have opened.  Every night they've closed tight.  And every 30 days a new boy has been delivered in the lift.  Thomas was expected.  But the next day, a girl is sent up--the first girl to ever arrive in the Glade.  And more surprising yet is the message she delivers.  Thomas might be more important than he could ever guess.  If only he could unlock the dark secrets buried within his mind.  From the Hardcover edition."
+    },
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-10T18:24:03.014202"
+    },
+    "title": "The Maze Runner",
+    "covers": [7911800, 6283404],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-22T14:11:24.421741"
+    },
+    "latest_revision": 9,
+    "key": "/works/OL6027236W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL1514025A"
+        }
+    }],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["Fiction", "Science fiction", "Amnesia", "Cooperativeness", "Labyrinths", "Juvenile Fiction"],
+    "revision": 9
+} {
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-27T00:50:39.786677"
+    },
+    "title": "Mockingjay (The Final Book of The Hunger Games): Foil Edition",
+    "covers": [8468787],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-01-09T16:17:58.055116"
+    },
+    "latest_revision": 3,
+    "key": "/works/OL19354864W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL1394359A"
+        }
+    }],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["Science fiction", "Interpersonal relations", "Television programs", "Insurgency", "Survival", "Contests", "Fiction"],
+    "revision": 3
+} {
+    "description": {
+        "type": "/type/text",
+        "value": "The Cambers' once-friendly St. Bernard turns into a killer after being bitten by a rabid bat. Donna Trenton's husband is in New York trying to contain a disastrous ad campaign. Feeling abandoned by her workaholic husband, who is frequently out of town, Donna Trenton embarks on an affair with a local handyman. Left to fend for herself, she takes her ailing Pinto to Joe Cambers' garage for repairs only to be trapped with her son Tad in the sweltering car by the monstrous dog.\r\n([source][1])\r\n\r\n\r\n  [1]: https://www.stephenking.com/library/novel/cujo.html"
+    },
+    "links": [{
+        "url": "https://www.stephenking.com/library/novel/cujo.html",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "StephenKing.com - Cujo"
+    }, {
+        "url": "https://en.wikipedia.org/wiki/Cujo",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Cujo - Wikipedia"
+    }, {
+        "url": "https://stephenking.fandom.com/wiki/Cujo_(novel)",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Cujo (novel) | Stephen King Wiki | FANDOM powered by Wikia"
+    }, {
+        "url": "https://www.theguardian.com/books/2012/nov/02/rereading-stephen-king-cujo",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Rereading Stephen King: week 11 \u2013 Cujo"
+    }],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-17T04:57:55.334864"
+    },
+    "title": "Cujo",
+    "covers": [9255949],
+    "subject_places": ["Castle Rock", "Maine", "New York", "Joe Cambers' garage"],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-01-25T15:04:24.186105"
+    },
+    "subject_people": ["Bernie Carbo", "Cujo", "Dinah", "Mr. Clean", "Mrs. Beasley", "Rusty", "Sharp Cereal Professor", "Willie", "Abby", "Billy", "Brock", "Lisa", "Marcy", "Rocky", "Samantha", "George Bannerman", "Katrina Bannerman", "Victoria Bannerman", "Stringer Beaulieu", "Lewis Belasco", "Billy Bellamy", "Dave Bergeron", "Joan Brady", "Althea Breakstone", "Roger Breakstone", "Timothy Breakstone", "Gretchen Brooks", "Holly Brooks", "Jim Brooks Jr.", "Vin Callahan", "brett Camber", "Charity Camber", "Joe Camber", "Evelyn Chalmers", "Ray Crowell", "Reverend Dimmesdale", "Stanley Dobson", "Frank Dodd", "Henrietta", "Mr. Donovan", "Ronnie DuBay", "Carol Dunbarger", "Roscoe Fisher", "Michael Fournier", "Alma Frechette", "Billy Freeman", "Debbie Gehringer", "Dr. Gresham", "Yancey Harrington", "Arnold Heebert", "Mary Kate Hendrasen", "Mr. Hewitt", "Randy Hofnager", "Mr. Johnson", "Harry Jones", "Steve Kemp", "Allison MacKenzie", "Joe Magruder", "Vin Marchant", "Rob Martin", "Masen", "Andy Masen", "Marty Masen", "Robert Masen", "Lou McNally", "Cathy Meara", "George Meara", "Mr. Miller", "Freddy Milliken", "John Milliken", "Kim Milliken", "Cerhyl Moody", "John Mousam", "Tommy Neadeau", "Gary Pervier", "Sally Petrie", "Dr. Quentin", "Fred Redding", "Etta Ringgold", "Donna Rose", "Dwight Sampson", "Old Man Seltzer", "Carroll Sharp", "Mr. Souper", "Richie Simms", "John smith", "Mr. Steigmeyer", "Adam Swallow", "J. Walter Thompson", "Alva Thornton", "Bessie Thornton", "Red Timmins", "Pauline Toothaker", "Buddy Torgeson", "Hank Townsend", "Donna Trenton", "Theodore Trenton", "Vic Trenton", "Joanie Welsh", "Mr. Welsh", "William Wolfe"],
+    "key": "/works/OL81610W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL2162284A"
+        }
+    }],
+    "latest_revision": 29,
+    "excerpts": [{
+        "comment": "first sentence",
+        "excerpt": "ONCE UPON A TIME, not so long ago, a monster came to the small town of Castle Rock, Maine.",
+        "author": {
+            "key": "/people/seabelis"
+        }
+    }],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["suspense", "psychological horror", "Fiction", "Rabies in fiction", "Dogs in fiction", "Dogs", "Rabies", "Horror", "American Horror tales", "horror fiction"],
+    "revision": 29
+} {
+    "description": "Harry Potter has no idea how famous he is. That's because he's being raised by his miserable aunt and uncle who are terrified Harry will learn that he's really a wizard, just as his parents were. But everything changes when Harry is summoned to attend an infamous school for wizards, and he begins to discover some clues about his illustrious birthright. From the surprising way he is greeted by a lovable giant, to the unique curriculum and colorful faculty at his unusual school, Harry finds himself drawn deep inside a mystical world he never knew existed and closer to his own noble destiny.",
+    "links": [{
+        "url": "https://www.jkrowling.com/book/harry-potter-philosophers-stone/",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Harry Potter and the Philosopher's Stone - J.K. Rowling"
+    }, {
+        "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Harry Potter and the Philosopher's Stone - Wikipedia"
+    }, {
+        "url": "https://www.theguardian.com/childrens-books-site/2015/jul/29/harry-potter-and-the-philosophers-stone-j-k-rowling-review",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Harry Potter and the Philosopher's Stone by J.K. Rowling \u2013 review (theguardian.com)"
+    }, {
+        "url": "https://www.theguardian.com/childrens-books-site/2015/mar/01/review-j-k-rowling-harry-potter-philosophers-stone",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Harry Potter and the Philosopher's Stone by J.K. Rowling - review (theguardian.com)"
+    }],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-17T07:07:29.461716"
+    },
+    "title": "Harry Potter and the Philosopher's Stone",
+    "covers": [8267078, 9016823, -1],
+    "subject_places": ["England", "Hogwarts School of Witchcraft and Wizardry", "4 Privet Drive", "Diagon Alley", "Leaky Cauldron", "Gringotts Wizarding Bank", "Forbidden Forest", "King's Cross Station", "Platform Nine and Three-quarters"],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-02-09T19:52:51.094153"
+    },
+    "subject_people": ["Harry Potter", "Ron Weasley", "Hermione Granger", "Neville Longbottom", "Rubeus Hagrid", "Albus Dumbledore", "Minerva McGonagall", "Nicolas Flamel", "Norbert", "Sorting Hat", "Severus Snape", "Quirinus Quirrell", "Petunia Dursley", "Draco Malfoy", "Argus Filch", "Vernon Dursley", "Dudley Dursley", "Fred Weasley", "George Weasley", "Jorge", "Ginny Weasley", "Gina", "Molly Weasley", "Percy Weasley", "Vincent Crabbe", "Gregory Goyle", "Lee Jordan", "Scabbers", "Hannah Abbott", "Bloody Baron", "Susan Bones", "Terry Boot", "Mandy Brocklehurst", "Lavender Brown", "Millicent Bulstrode", "Nearly Headless Nick", "Fat Friar", "Fat Lady", "Justin Finch-Fetchley", "Seamus Finnigan", "Morag MacDougal", "Lily Moon", "Pansy Parkinson", "Padma Patil", "Parvati Patil", "Chap\u00e9u Seletor", "Peeves", "Dean Thomas", "Lisa Turpin", "Blaise Zabini", "Lil\u00e1"],
+    "key": "/works/OL82592W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL23919A"
+        }
+    }],
+    "latest_revision": 106,
+    "subject_times": ["1991"],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["Ghosts", "Monsters", "Vampires", "Witches", "Challenges and Overcoming Obstacles", "Magic and Supernatural", "Cleverness", "School Life", "school stories", "Wizards", "Magic", "MAGIA", "MAGOS", "Juvenile fiction", "Fiction", "NOVELAS INGLESAS", "Schools", "orphans", "fantasy fiction", "England in fiction", "Witches in fiction", "Wizards in fiction", "Alchemy", "New York Times bestseller", "Juvenile literature", "Magic in fiction", "Open Library Staff Picks", "Juvenile audience", "Children's stories", "Juvenile works", "Schools in fiction", "Fantasy", "Hogwarts School of Witchcraft and Wizardry (Imaginary place)", "Harry Potter (Fictitious character)", "Ficci\u00f3n juvenil", "Escuelas", "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)", "Translations from English", "Chinese fiction", "Hermione Granger (Fictitious character)"],
+    "revision": 106
+} {
+    "description": {
+        "type": "/type/text",
+        "value": "After Jack becomes apprenticed to a Druid bard, he and his little sister Lucy are captured by Viking Berserkers and taken to the home of King Ivar the Boneless and his half-troll queen, leading Jack to undertake a vital quest to Jotunheim, home of the trolls."
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-02-13T08:35:00.415207"
+    },
+    "title": "The Sea of Trolls",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-10T00:15:02.191384"
+    },
+    "covers": [1472489, 438407],
+    "first_publish_date": "2004",
+    "latest_revision": 12,
+    "key": "/works/OL2696041W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL394088A"
+        }
+    }],
+    "dewey_number": ["[Fic]"],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["Norse Mythology", "Druids and Druidism", "Bards and bardism", "Brothers and sisters", "Vikings", "Saxons", "Fiction", "Mythology, Norse", "Trolls", "Druids and druidism", "Juvenile fiction"],
+    "revision": 12
+} {
+    "title": "Warrior Heir, The",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-10T18:04:29.205298"
+    },
+    "covers": [1479647],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-02-13T10:14:24.401139"
+    },
+    "latest_revision": 4,
+    "key": "/works/OL5850329W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL1435789A"
+        }
+    }],
+    "type": {
+        "key": "/type/work"
+    },
+    "revision": 4
+} {
+    "description": {
+        "type": "/type/text",
+        "value": "When the goddess Artemis goes missing, she is believed to have been kidnapped. And now it's up to Percy and his friends to find out what happened. Who is powerful enough to kidnap a goddess? They must find Artemis before the winter solstice, when her influence on the Olympian Council could swing an important vote on the war with the titans. Not only that, but first Percy will have to solve the mystery of a rare monster that Artemis was hunting when she disappeared-a monster rumored to be so powerful it could destroy Olympus forever"
+    },
+    "title": "The Titan's Curse (Percy Jackson and the Olympians)",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T03:33:16.906643"
+    },
+    "covers": [2815296],
+    "subject_places": ["New York", "The Beramuda Triangle"],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-02-13T17:50:40.841212"
+    },
+    "latest_revision": 16,
+    "key": "/works/OL492647W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL30765A"
+        }
+    }],
+    "subject_times": ["Modern Times"],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["nyt:series_books=2007-07-21", "New York Times bestseller", "Fictitious Character", "Percy Jackson", "Mount Olympus", "Children's Fiction", "Fiction", "Artemis (Greek deity)", "Greek Mythology", "Juvenile fiction", "Titans (Mythology)", "Monsters", "Mythical Animals", "Fantasy fiction", "Greek Gods", "Children's stories"],
+    "revision": 16
+} {
+    "description": "COULD YOU SURVIVE ON YOUR OWN, IN THE WILD, WITH EVERYONE OUT TO MAKE SURE YOU DON'T LIVE TO SEE THE MORNING?\r\n\r\nIn the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and cruel and keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV.\r\n\r\nSixteen-year-old Katniss Everdeen, who lives alone with her mother and younger sister, regards it as a death sentence when she steps forward to take her sister's place in the Games. But Katniss has been close to dead before--and survival, for her, is second nature. Without really meaning to, she becomes a contender. But if she is to win, she will have to start making choices that weight survival against humanity and life against love.",
+    "links": [{
+        "url": "http://www.suzannecollinsbooks.com/the_hunger_games_69765.htm",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "THE HUNGER GAMES - Suzanne Collins"
+    }, {
+        "url": "https://en.wikipedia.org/wiki/The_Hunger_Games_(novel)",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "The Hunger Games (novel) - Wikipedia"
+    }, {
+        "url": "https://www.nytimes.com/2018/10/18/books/suzanne-collins-talks-about-the-hunger-games-the-books-and-the-movies.html",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Suzanne Collins Talks About \u2018The Hunger Games,\u2019 the Books and the Movies"
+    }, {
+        "url": "https://www.theguardian.com/books/2013/nov/22/review-the-hunger-games-suzanne-collins",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "The Hunger Games by Suzanne Collins - review"
+    }, {
+        "url": "https://www.shmoop.com/hunger-games/",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "The Hunger Games - Shmoop"
+    }, {
+        "url": "https://www.sparknotes.com/lit/the-hunger-games/",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "SparkNotes: The Hunger Games"
+    }],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-10T11:10:55.999788"
+    },
+    "title": "Hunger Games",
+    "covers": [6376188],
+    "subject_places": ["Panem", "The Capitol", "The Pentagon", "District 12"],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-02-17T20:46:19.531357"
+    },
+    "subject_people": ["Katniss Everdeen", "Peeta Mellark", "Gale Hawthorne", "Elmo", "President Snow", "Primrose Everdeen", "Effie", "Haymitch Abernathy", "Cinna", "Effie Trincket", "Rue", "Cato", "Foxface", "Thresh", "Madge Undersee", "Mayor Undersee", "Venia", "Glimmer", "Clove", "Caesar Flickerman", "Claudius Templesmith"],
+    "key": "/works/OL5735363W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL1394359A"
+        }
+    }],
+    "latest_revision": 89,
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["severe poverty", "starvation", "oppression", "effects of war", "self-sacrifice", "Science fiction", "Apocalyptic fiction", "Dystopian fiction", "Fiction", "Juvenile works", "Novels", "Young adult works", "Juvenile fiction", "contensts", "Young adult fiction", "Game shows", "Television programs", "New York Times bestseller", "Contests", "nyt:series_books=2010-08-21", "Long Now Manual for Civilization", "Reality television programs", "Television game shows", "Survival", "Interpersonal relations", "Roman", "Amerikanisches Englisch", "Sisters", "Young women", "Dystopias", "Survival skills", "Blind", "Books and reading"],
+    "revision": 89
+} {
+    "description": "The story of misfit high-school girl, Carrie White, who gradually discovers that she has telekinetic powers. Repressed by a domineering, ultra-religious mother and tormented by her peers at school, her efforts to fit in lead to a dramatic confrontation during the senior prom. \r\n([source][1])\r\n\r\n\r\n----------\r\nAlso contained in:\r\n\r\n - [The Shining / 'Salem's Lot / Night Shift / Carrie][2]\r\n\r\n\r\n----------\r\nSee also:\r\n\r\n - [Selected from Carrie][3]\r\n\r\n\r\n  [1]: https://stephenking.com/library/novel/carrie.html\r\n  [2]: https://openlibrary.org/works/OL19558521W\r\n  [3]: https://openlibrary.org/works/OL11018609W/Selected_from_Carrie",
+    "links": [{
+        "url": "https://stephenking.com/library/novel/carrie.html",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "StephenKing.com - Carrie"
+    }, {
+        "url": "https://en.wikipedia.org/wiki/Carrie_(novel)",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Carrie (novel) - Wikipedia"
+    }, {
+        "url": "https://stephenking.fandom.com/wiki/Carrie",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Carrie | Stephen King Wiki | FANDOM powered by Wikia"
+    }, {
+        "url": "https://www.theguardian.com/books/2014/apr/04/carrie-stephen-king-horror",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "How Carrie changed Stephen King's life, and began a generation of horror"
+    }, {
+        "url": "https://www.theguardian.com/books/2012/may/24/rereading-stephen-king-carrie",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Rereading Stephen King: week one \u2013 Carrie"
+    }],
+    "title": "Carrie",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-17T04:57:55.334864"
+    },
+    "covers": [8576476],
+    "subject_places": ["Chamberlain", "Maine", "Appalachia"],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-02-28T09:52:11.761804"
+    },
+    "subject_people": ["Brucie", "Cindi", "David", "Fern", "Galatea", "Gramma", "Josie and the Moonglows", "Peter", "The Billy Bosnan Band", "Black Man", "Junkman", "Harold Allison", "Judith Brigham Allison", "J.W. Bankson", "Don Barrett", "Mrs. Bicente", "Uncle Billy", "Henry Blake", "Tina Blake", "P.P.J. Bliss", "Harry Block", "David Bracken", "Doug Brann", "John Brigham", "Lennie Brock", "Chief Burton", "Eddie Cantor", "Mr. Chairman", "William A. Chamberlain", "George Chizmar", "Sadie Cochran", "Maureen Cowan", "Mel Crager", "Morton Cratzchberken", "Myra Crewes", "George Dawson", "Mrs. Dawson", "Steve Deighan", "Billy DeLois", "Rita L. Desjardin", "Sam Deveaux", "Mr. Downer", "Otis Doyle", "Henry Drain", "Marcel Dubay", "Teddy Duchamp", "Tommy Erbter", "Ray Evarts", "Mr. Evers", "Don Farnham", "Roger Fearon", "George Fielding", "Miss Fish", "Coach Gaines", "Uncle Galen", "Mrs. Garrison", "Kenny Garson", "Lou Garson", "Jeane Gault", "Brent Gillian", "Julia Givens", "Ruth Gogan", "Henry Grade", "Frank Grier", "Vicky Hanscom", "Chris Hargensen", "John Hargensen", "Billy Harris", "Irwin Henty", "Mrs. Henty", "Freddy Holt", "Estelle Horan", "Mrs. Horan", "Frieda Jason", "Amelia Jenks", "Annie Jenks", "Pete Jenks", "Sandra Jenks", "George Jerome", "Vicky Jones", "Donna Kellogg", "Hubert Kelly", "Edwin King", "Mr. Kirk", "Virginia Kirk", "Mrs. Klein", "Andrea Kolintz", "George Kramer", "Mr. Lavoie", "Mr. Lublin", "Mrs. Lublin", "Gerald Luponet", "Miss Macaferty", "Jessica MacLean", "Holly Marshall", "Georgia McLaughlin", "Sally Mc Manus", "Thomas B. Mears", "Thomas G. Mearton", "Vic Mooney", "Peter Morton", "Elton Mott", "Billy Nolan", "Dale Norbert", "Dick O'Connell", "Freddy Overlook", "Danny Patrick", "Peter Philpott", "Bobby Pickett", "Plessy", "Billy Preston", "Thomas K. Quillan", "Mr. Ross", "Tommy Ross", "Saunders", "Georgette Shyres", "Helen Shyres", "Cora Simard", "Mr. Simard", "Rhonda Simard", "Jerry Smith", "Mrs. Smith", "Terry Smith", "Mr. Snell", "Mrs. Snell", "Sue Snell", "Mortimer Snerd", "Rachel Spies", "Henry Stampel", "Sandra Stenchfield", "Mr. Stephens", "John Swithen", "Irma Swope", "Peter Taber", "Jackie Talbot", "Donna Thibodeau", "Mary Lila Grace Thibodeau", "William C. Throneberry", "Red Trelawny", "Henry Trennant", "Bruce Trevor", "Dale Ullman", "Jessica Upshaw", "Josie Vreck", "Mrs. Warwick", "Norma Watson", "Carietta White", "Margaret White", "Mrs. Yorraty"],
+    "key": "/works/OL81626W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL2162284A"
+        }
+    }],
+    "latest_revision": 44,
+    "excerpts": [{
+        "comment": "first sentence",
+        "excerpt": "It was reliably reported by several persons that a rain of stones fell from a clear blue sky on Carlin Street in the town of Chamberlain on August 17th.",
+        "author": {
+            "key": "/people/seabelis"
+        }
+    }],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["occult & supernatural fiction", "horror fiction", "psychological thrillers", "Fiction", "Horror", "American Horror tales", "thriller", "Epistolary novel", "telekinesis", "Menarche", "proms", "menstruation", "telepathy", "banned book", "Estudiantes de escuelas secundarias", "Psicocin\u00e9tica", "Psychokinesis", "Teenage girls", "Social isolation", "High school students", "Madres e hijas", "Mothers and daughters", "Ficci\u00f3n", "Aislamiento social", "Child abuse"],
+    "revision": 44
+} {
+    "key": "/works/OL149195W",
+    "description": {
+        "type": "/type/text",
+        "value": "[The Dark Tower][1] VII\r\n\r\nRoland\u2019s ka-tet is reunited, but not without cost.  The last episode of the story takes them on the final stretch of their journey to The Dark Tower.  Though they have rescued Susannah, there are still enemies who must be dealt with along the way and who could be their ultimate destruction.  Constant readers will recognize characters from past books, who like the ka-tet, have found themselves caught in the spider's web spun bythe Crimson King? Gan?  Questions are answered and others asked. The journey is long and ka is but a wheel. \r\n([source][2])\r\n\r\n\r\n  [1]: https://openlibrary.org/works/OL81600W/The_Dark_Tower_1-7\r\n  [2]: https://stephenking.com/library/novel/dark_tower_the.html"
+    },
+    "links": [{
+        "url": "https://stephenking.com/library/novel/dark_tower_the.html",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "StephenKing.com - The Dark Tower"
+    }],
+    "title": "Dark Tower",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-19T22:33:49.992711"
+    },
+    "covers": [8579767],
+    "subject_places": ["New York", "Mid-world", "Maine", "Dark Tower"],
+    "first_publish_date": "September 21, 2004",
+    "subject_people": ["Roland Deschain", "Stephen King", "Eddie Dean", "Susannah Dean", "Jake Chambers", "Crimson King", "Gan", "Father Callahan"],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-02-28T19:15:56.024456"
+    },
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL2162284A"
+        }
+    }],
+    "latest_revision": 24,
+    "subject_times": ["1960-1999"],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["The Dark Tower", "fantasy fiction", "fiction", "Post-apocalpytic", "Apocalyptic literature", "American fantasy fiction", "Roland (Fictitious character : King)"],
+    "revision": 24
+} {
+    "description": {
+        "type": "/type/text",
+        "value": "Harry Potter is leaving Privet Drive for the last time. But as he climbs into the sidecar of Hagrid\u2019s motorbike and they take to the skies, he knows Lord Voldemort and the Death Eaters will not be far behind.\r\n\r\nThe protective charm that has kept him safe until now is broken. But the Dark Lord is breathing fear into everything he loves. And he knows he can\u2019t keep hiding.\r\n\r\nTo stop Voldemort, Harry knows he must find the remaining Horcruxes and destroy them.\r\n\r\nHe will have to face his enemy in one final battle.\r\n\r\n([source][1])\r\n\r\n\r\n----------\r\nSee also:\r\n\r\n - [Harry Potter and the Deathly Hallows: 2/2][2]\r\n\r\n\r\n  [1]: https://www.jkrowling.com/book/harry-potter-deathly-hallows/\r\n  [2]: https://openlibrary.org/works/OL17922343W/Harry_Potter_and_the_Deathly_Hallows_Chapters_20-36"
+    },
+    "links": [{
+        "url": "https://www.jkrowling.com/book/harry-potter-deathly-hallows/",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Harry Potter and the Deathly Hallows - J.K. Rowling (jkrowling.com)"
+    }, {
+        "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Harry Potter and the Deathly Hallows - Wikipedia"
+    }, {
+        "url": "https://www.theguardian.com/books/2007/jul/28/booksforchildrenandteenagers.jkjoannekathleenrowling",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Harry Potter and the Deathly Hallows by JK Rowling review \u2013 a send-off fit for a wizard (theguardian.com)"
+    }, {
+        "url": "https://www.nytimes.com/2007/08/12/books/review/Hitchens-t.html",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "The Boy Who Lived (nytimes.com)"
+    }, {
+        "url": "https://www.independent.co.uk/arts-entertainment/films/news/jk-rowling-deathly-hallows-symbol-harry-potter-inspiration-mason-a8025626.html",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "News JK Rowling reveals the heartbreaking inspiration for the Deathly Hallows symbol in Harry Potter (independent.co.uk)"
+    }],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-17T07:07:29.461716"
+    },
+    "title": "Harry Potter and the Deathly Hallows",
+    "covers": [8234415, 2480320],
+    "subject_places": ["England", "Scottland", "Ireland", "Wales", "Hogwarts School of Witchcraft and Wizardry", "Godric's Hollow"],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-02T05:49:12.635948"
+    },
+    "subject_people": ["Harry Potter", "Gregorovitch", "Greyback", "Gellert Grindelwald", "Griphook", "Godric Gryffindor", "Hagrid", "Kreacher", "Lord Voldemort", "Luna Lovegood", "Lupin", "Muggle-borns", "Neville Longbottom", "Severus Snape", "Fred Weasley", "Ginny Weasley", "Doge", "Draco Malfoy", "Ariana Dumbledore", "Bathilda Bagshot", "Bellatrix Lestrange", "Mrs. Cattermole", "The Dark Lord", "Death Eaters", "Aberforth", "Voldemort", "Albus Dumbledore", "Ron Weasley", "Hermione Granger", "The Weasleys", "The Potters"],
+    "key": "/works/OL82586W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL23919A"
+        }
+    }],
+    "latest_revision": 58,
+    "excerpts": [{
+        "comment": "first sentence",
+        "excerpt": "The two men appeared out of nowhere, a few yards apart in the narrow, moonlit lane.",
+        "author": {
+            "key": "/people/seabelis"
+        }
+    }],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["the Elder Wand", "children's books", "dementors", "good and evil", "Juvenile literature", "Juvenile works", "Death", "Fiction", "Wizards", "New York Times bestseller", "nyt:series_books=2006-09-16", "Schools", "Magic", "Magia", "Ficci\u00f3n juvenil", "Novela fant\u00e1stica", "Magos", "Escuelas", "Juvenile fiction", "dark magic", "Coming of age", "heroics", "fantasy", "action", "adventure", "orphans", "foster homes", "young adult", "children", "children's literature", "boarding school", "wizardry", "mystery", "kids", "witchcraft", "war", "Magie", "Magiciens", "Roman pour la jeunesse", "Mort", "Sorcellerie", "Romans, nouvelles, etc. pour la jeunesse", "Internats", "Fantasy fiction", "Roman fantastique", "Ecoles", "Boarding schools", "Sorciers", "Hogwarts School of Witchcraft and Wizardry (Imaginary place) -- Juvenile fiction", "Hogwarts School of Witchcraft and Wizardry (Imaginary place)", "Harry Potter (Fictitious character)", "Potter, Harry (Fictitious character) -- Juvenile fiction", "Wizards -- Fiction", "Magic -- Fiction", "Schools -- Fiction", "Magos -- Ficci\u00f3n juvenil", "Magia -- Ficci\u00f3n juvenil", "Escuelas -- Ficci\u00f3n juvenil", "England -- Fiction", "Inglaterra -- Ficci\u00f3n juvenil", "Hermione Granger (Fictitious character)", "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)", "Ron Weasley (Fictitious character)", "School stories", "Family", "Orphans & Foster Homes", "Social Themes", "Fantasy & Magic", "Fictional Works", "JUVENILE FICTION", "Bildungsromans", "Witches", "Friendship"],
+    "revision": 58
+} {
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-02T08:06:40.410075"
+    },
+    "title": "Hobbit",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-22T14:49:22.853965"
+    },
+    "covers": [8406766],
+    "first_publish_date": "1991",
+    "latest_revision": 12,
+    "key": "/works/OL219602W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL2453782A"
+        }
+    }, {
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL758306A"
+        }
+    }, {
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL26320A"
+        }
+    }],
+    "type": {
+        "key": "/type/work"
+    },
+    "revision": 12
+} {
+    "description": {
+        "type": "/type/text",
+        "value": "The first part of the Lord of the Rings trilogy, Tolkien\u2019s classic epic of Good versus Evil, set in the fictional world of Middle Earth, this book introduces the main characters and sets Frodo the Hobbit and his companions on their quest to return the ring of the evil Sauron to the fires of Mordor. With the help of Gandalf the wizard, the mysterious Strider and his hobbit friends Frodo reaches the land of the elves where they are joined by Legolas the Elf and Gimli the dwarf.\r\n\r\n----------\r\n**Also contained in:**\r\n\r\n - [The Lord of the Rings][1]\r\n\r\n\r\n  [1]: https://openlibrary.org/works/OL27448W/The_Lord_of_the_Rings"
+    },
+    "links": [{
+        "url": "http://www.tolkienestate.com/en/writing/tales-of-middle-earth/the-lord-of-the-rings.html",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Tolkien Estate | The Lord of the Rings"
+    }, {
+        "url": "https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "The Fellowship of the Ring - Wikipedia"
+    }, {
+        "url": "https://archive.nytimes.com/www.nytimes.com/books/01/02/11/specials/tolkien-fellowship.html",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "The Hero is a Hobbit (New York Times Books)"
+    }],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-03-12T22:23:04.929800"
+    },
+    "title": "The Fellowship of the Ring",
+    "covers": [8221252],
+    "subject_places": ["Middle Earth", "Mordor", "Tierra Media", "Bree", "Gondor"],
+    "excerpts": [{
+        "comment": "first sentence",
+        "excerpt": "This book is largely concerned with Hobbits, and from its pages a reader may discover much of their character and a little of their history.",
+        "author": {
+            "key": "/people/seabelis"
+        }
+    }],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-08T15:35:02.131022"
+    },
+    "subject_people": ["Bilbo Baggins", "Gandalf the Wizard", "Frodo Baggins", "Samwise Gamgee", "Aragorn (Strider)", "Legolas", "Gimli", "Elrond", "Sauron", "Black Riders", "Tom Bombadil", "Boromir", "Merry Brandybuck", "Celeborn", "Galadriel", "Elendil", "Gandalf"],
+    "key": "/works/OL14933414W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL26320A"
+        }
+    }],
+    "latest_revision": 9,
+    "subject_times": ["Before the Age of Men"],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["Elves", "Dwarves", "evil", "fear", "friends", "hope", "young adult fiction", "Ficci\u00f3n", "Ficci\u00f3n fant\u00e1stica inglesa", "Fantastic fiction", "The Lord of the Rings", "English Fantasy fiction", "Open Library Staff Picks", "Fiction", "Fantasy", "Fairy tales", "Adventure stories", "Fantasy fiction", "Middle Earth (Imaginary place)", "History and criticism", "FICTION / Fantasy / Epic", "Adventure fiction"],
+    "revision": 9
+} {
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-08T18:51:04.122829"
+    },
+    "title": "The Silmarillion",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T02:46:28.838662"
+    },
+    "covers": [9293491],
+    "first_publish_date": "June 1984",
+    "latest_revision": 12,
+    "key": "/works/OL27495W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL26320A"
+        }
+    }],
+    "type": {
+        "key": "/type/work"
+    },
+    "revision": 12
+} {
+    "description": {
+        "type": "/type/text",
+        "value": "OATHS SWORN . . . loyalties tested . . . forces collide.Following the colossal battle against the Empire's warriors on the Burning Plains, Eragon and his dragon, Saphira, have narrowly escaped with their lives. Still there is more at hand for the Rider and his dragon, as Eragon finds himself bound by a tangle of promises he may not be able to keep.First is Eragon's oath to his cousin Roran: to help rescue Roran's beloved, Katrina, from King Galbatorix's clutches. But Eragon owes his loyalty to others, too. The Varden are in desperate need of his talents and strength--as are the elves and dwarves. When unrest claims the rebels and danger strikes from every corner, Eragon must make choices-- choices that take him across the Empire and beyond, choices that may lead to unimagined sacrifice.Eragon is the greatest hope to rid the land of tyranny. Can this once-simple farm boy unite the rebel forces and defeat the king?From the Hardcover edition."
+    },
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-10T18:01:52.014210"
+    },
+    "title": "Brisingr",
+    "covers": [2411585, 6304085],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-08T21:41:28.070784"
+    },
+    "latest_revision": 10,
+    "key": "/works/OL5819884W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL1425963A"
+        }
+    }],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["Fiction", "Juvenile Fiction", "New York Times bestseller", "nyt:series_books=2011-06-11", "Fantasy", "Youths' writings", "Dragons", "Youth's writings", "Juvenile fiction"],
+    "revision": 10
+} {
+    "description": {
+        "type": "/type/text",
+        "value": "After successfully evading an Urgals ambush, Eragon is adopted into the Ingeitum clan and sent to finish his training so he can further help the Varden in their struggle against the Empire."
+    },
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-10T18:01:52.014210"
+    },
+    "title": "Eldest",
+    "covers": [232568, -1, 2129982, 897526, 233421, 6374457],
+    "subject_places": ["Alagaesia"],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-08T21:47:23.781088"
+    },
+    "subject_people": ["Eragon", "Saphira"],
+    "key": "/works/OL5819899W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL1425963A"
+        }
+    }],
+    "latest_revision": 21,
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["Young Adult Fiction", "Juvenile fiction", "nyt:series_books=2011-06-11", "Fiction", "Fantasy", "New York Times bestseller", "Dragons", "Youths' writings", "Dragons -- Fiction", "Juvenile Fiction", "Fantasy fiction"],
+    "revision": 21
+}
+
+{
+    "subtitle": "or, The Vault of Souls",
+    "description": "Not so very long ago, Eragon -- Shadeslayer, Dragon Rider -- was nothing more than a poor farm boy, and his dragon, Saphira, only a blue stone in the forest. Now the fate of an entire civilization rests on their shoulders. Long months of training and battle have brought victories and hope, but they have also brought heartbreaking loss. And still, the real battle lies ahead: they must confront Galbatorix. When they do, they will have to be strong enough to defeat him. And if they cannot, no one can. There will be no second chances. The Rider and his dragon have come further than anyone dared to hope. But can they topple the evil king and restore justice to Alagaesia? And if so, at what cost? This is the much-anticipated, astonishing conclusion to the worldwide bestselling Inheritance cycle. - Publisher.",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-10-23T11:19:01.437073"
+    },
+    "title": "Inheritance",
+    "covers": [6973055, 8047217],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-08T21:57:53.296530"
+    },
+    "subject_people": ["Eragon", "Saphira"],
+    "key": "/works/OL16175854W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL1425963A"
+        }
+    }],
+    "latest_revision": 6,
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["Fantasy", "Dragons", "Fiction", "Magic", "Imaginary places", "Juvenile fiction"],
+    "revision": 6
+} {
+    "description": {
+        "type": "/type/text",
+        "value": "Originally published from 1954 through 1956, J.R.R. Tolkien's richly complex series ushered in a new age of epic adventure storytelling. A philologist and illustrator who took inspiration from his work, Tolkien invented the modern heroic quest novel from the ground up, creating not just a world, but a domain, not just a lexicon, but a language, that would spawn countless imitators and lead to the inception of the epic fantasy genre. Today, THE LORD OF THE RINGS is considered \"the most influential fantasy novel ever written.\" (THE ENCYCLOPEDIA OF FANTASY)\r\n\r\nDuring his travels across Middle-earth, the hobbit Bilbo Baggins had found the Ring. But the simple band of gold was far from ordinary; it was in fact the One Ring - the greatest of the ancient Rings of Power. Sauron, the Dark Lord, had infused it with his own evil magic, and when it was lost, he was forced to flee into hiding.\r\n\r\nBut now Sauron's exile has ended and his power is spreading anew, fueled by the knowledge that his treasure has been found. He has gathered all the Great Rings to him, and will stop at nothing to reclaim the One that will complete his dominion. The only way to stop him is to cast the Ruling Ring deep into the Fire-Mountain at the heart of the land of Mordor--Sauron's dark realm.\r\n\r\nFate has placed the burden in the hands of Frodo Baggins, Bilbo's heir...and he is resolved to bear it to its end. Or his own. \r\n\r\n\r\n----------\r\n\r\n\r\n**Contains**\r\n\r\n - [The Fellowship of the Ring][1]\r\n - [The Two Towers][2]\r\n - [The Return of the King][3]\r\n\r\n  [1]: https://openlibrary.org/works/OL14933414W/The_Fellowship_of_the_Ring\r\n  [2]: https://openlibrary.org/works/OL27479W/The_Two_Towers\r\n  [3]: https://openlibrary.org/works/OL27516W/The_Return_of_the_King"
+    },
+    "links": [{
+        "url": "http://www.tolkienestate.com/en/writing/tales-of-middle-earth/the-lord-of-the-rings.html",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Tolkien Estate | The Lord of the Rings"
+    }, {
+        "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "The Lord of the Rings - Wikipedia"
+    }, {
+        "url": "http://www.fantasybookreview.co.uk/JRR-Tolkien/The-Lord-Of-The-Rings.html",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "fantasybookreview.co.uk/JRR-Tolkien/The-Lord-Of-The-Rings"
+    }, {
+        "url": "https://www.britannica.com/topic/The-Lord-of-the-Rings",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "The Lord of the Rings | Overview & Summary | Britannica.com"
+    }, {
+        "url": "http://tolkiengateway.net/wiki/The_Lord_of_the_Rings",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "The Lord of the Rings - Tolkien Gateway"
+    }],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T02:46:28.838662"
+    },
+    "title": "The Lord of the Rings",
+    "covers": [9255566],
+    "subject_places": ["Mordor", "Hornburg", "Isengard", "Cracks of Doom", "Fangorn Forest", "Middle Earth", "Tierra Media"],
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL26320A"
+        }
+    }],
+    "first_publish_date": "September 3, 2001",
+    "subject_people": ["Frodo Baggins", "Samwise Gamgee", "Meriadoc Brandybuck", "Peregrin Took", "Gandalf the Grey", "Aragorn", "Legolas Greenleaf", "Gimli", "Boromir", "Denethor", "Faramir", "Galadriel", "Celeborn", "Elrond", "Arwen Und\u00f3miel", "Bilbo Baggins", "Th\u00e9oden", "\u00c9omer", "\u00c9owyn", "Treebeard", "Tom Bombadil", "King Thranduil", "Silvan Elves", "Sauron", "Elves of Eregion", "the Nazg\u00fbl", "The Witch-king of Angmar", "Saruman the White", "Gr\u00edma Wormtongue", "Gollum", "Shelob", "Durin's Bane", "Mouth of Sauron"],
+    "key": "/works/OL27448W",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-09T22:34:47.428592"
+    },
+    "latest_revision": 67,
+    "subject_times": ["The end of the third age"],
+    "subjects": ["The Lord of the Rings", "Fiction", "Ficci\u00f3n", "English Fantasy fiction", "Ficci\u00f3n fant\u00e1stica inglesa", "Fantasy fiction", "Fiction in English", "Open Library Staff Picks", "Middle Earth (Imaginary place)"],
+    "type": {
+        "key": "/type/work"
+    },
+    "excerpts": [{
+        "excerpt": "'Battle and war!' said Gandalf. 'Ride on!'",
+        "pages": "494",
+        "author": {
+            "key": "/people/mekBot"
+        }
+    }, {
+        "comment": "first sentence",
+        "excerpt": "This book is largely concerned with Hobbits, and from its pages a reader may discover much of their character and a little of their history.",
+        "author": {
+            "key": "/people/seabelis"
+        }
+    }],
+    "revision": 67
+} {
+    "description": "THE RETURN OF THE KING, which brings to a close the great epic of war and adventure begun in The Fellowship of the Ring and continued in The Two Towers, is the third and final part of J. R. R. Tolkien's masterpiece, \"The Lord of the Rings.\"\r\n\r\nIn these three books, which form one continuous narrative, Tolkien created the saga of the Hobbits of Middle-earth and the great War of the Rings. Praised by such writers and poets as W. H. Auden, Richard Hughes and C. S. Lewis, \"The Lord of the Rings\" - that special world of beauty and terror and meaning - holds a secure place among the books that will live.\r\n\r\n----------\r\n**Also contained in:**\r\n\r\n - [The Lord of the Rings][1]\r\n\r\n\r\n  [1]: https://openlibrary.org/works/OL27448W/The_Lord_of_the_Rings",
+    "links": [{
+        "url": "https://en.wikipedia.org/wiki/The_Return_of_the_King",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "The Return of The King - Wikipedia"
+    }],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T02:46:28.838662"
+    },
+    "title": "Return of the King",
+    "covers": [8302846],
+    "subject_places": ["Middle Earth (Imaginary place)", "Barad-dur", "Minas Tirith", "Lorien", "Erebor", "Middle Earth", "Edoras", "Isengard", "Fangorn Forest", "Mordor", "Gondor", "Rohan", "Ithilien", "Osgiliath", "Mount Doom", "Rivendell", "the Shire", "Bree", "Bag End"],
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL26320A"
+        }
+    }],
+    "first_publish_date": "1955",
+    "subject_people": ["Aragorn", "Elendil", "Dwarves", "Frodo Baggins", "The Dunedain", "Gandalf", "Sauron", "Pippin", "Meriadoc", "Umbar", "Denethor", "Boromir", "Faramir", "Saruman", "Legolas", "Gimli", "Beregond", "Eorl", "King Th\u00e9oden", "Gollum", "Shelob", "Rosie Cotton", "Gr\u00edma", "Bombadil", "Shadowfax", "\u00c9omer", "Merry", "\u00c9owyn", "Samwise", "Arwen", "Elrond"],
+    "key": "/works/OL27516W",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-09T15:29:09.942271"
+    },
+    "latest_revision": 59,
+    "subject_times": ["The End of the Third Age"],
+    "subjects": ["Elves", "Hobbits", "The Lord of the Rings", "hope", "fear", "magic", "Fiction", "Fantasy", "English Fantasy fiction", "Juvenile fiction", "Fantastic fiction", "Textual Criticism", "Middle Earth (Imaginary place)", "Chinese language materials", "Adventure", "Fantasy fiction"],
+    "type": {
+        "key": "/type/work"
+    },
+    "excerpts": [{
+        "comment": "first sentence",
+        "excerpt": "Pippin looked out from the shelter of Gandalf's cloak.",
+        "author": {
+            "key": "/people/seabelis"
+        }
+    }],
+    "revision": 59
+} {
+    "description": "Frodo and the Companions of the Ring have been beset by danger during their quest to prevent the Ruling Ring from falling into the hands of the Dark Lord by destroying it in the Cracks of Doom. They have lost the wizard, Gandalf, in the battle with an evil spirit in the Mines of Moria; and at the Falls of Rauros, Boromir, seduced by the power of the Ring, tried to seize it by force. While Frodo and Sam made their escape the rest of the company were attacked by Orcs. Now they continue their journey alone down the great River Anduin \u2013 alone, that is, save for the mysterious creeping figure that follows wherever they go. J.R.R. Tolkien\u2019s great work of imaginative fiction has been labelled both a heroic romance and a classic fantasy fiction. By turns comic and homely, epic and diabolic, the narrative moves through countless changes of scene and character in an imaginary world which is totally convincing in its detail.\r\n\r\n----------\r\n**Also contained in:**\r\n\r\n - [The Lord of the Rings][1]\r\n\r\n\r\n  [1]: https://openlibrary.org/works/OL27448W/The_Lord_of_the_Rings",
+    "links": [{
+        "url": "https://en.wikipedia.org/wiki/The_Two_Towers",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "The Two Towers - Wikipedia"
+    }, {
+        "url": "http://www.tolkienestate.com/en/writing/tales-of-middle-earth/the-lord-of-the-rings.html",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Tolkien Estate | The Lord of the Rings"
+    }],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T02:46:28.838662"
+    },
+    "title": "The Two Towers",
+    "covers": [8167231, 8167232],
+    "subject_places": ["Middle Earth (Imaginary place)", "Tierra Media", "River Anduin", "Middle Earth", "Minas Tirith", "Rohan", "Fangorn Forrest", "Moria", "Edoras", "Helm's Deep", "Isengard", "Gondor", "Mount Doom", "Ithilien", "Dead Marshes"],
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL26320A"
+        }
+    }],
+    "first_publish_date": "October 1999",
+    "subject_people": ["Gandalf", "Frodo Baggins", "Aragorn II", "Merry", "Pippin", "Samwise", "Boromir", "Saruman the White", "Uruk-hai", "Sauron", "Shelob", "Legolas", "Gimli", "Huorns", "Gollum", "\u00c9omer", "Gr\u00edma Wormtongue", "the Balrog", "Treebeard", "Rohirrim", "Th\u00e9oden"],
+    "key": "/works/OL27479W",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-09T22:09:40.517148"
+    },
+    "latest_revision": 21,
+    "excerpts": [{
+        "comment": "first sentence",
+        "excerpt": "ARAGORN sped on up the hill.",
+        "author": {
+            "key": "/people/seabelis"
+        }
+    }],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["Ents", "Orcs", "hobbits", "magic", "Ficci\u00f3n fant\u00e1stica inglesa", "Ficci\u00f3n", "translations into Spanish", "readers for new literates", "The Lord of the Rings", "English Fantasy fiction", "Open Library Staff Picks", "Fiction", "Fantasy", "Popular Carousel", "Middle Earth (Imaginary place)", "Tierra Media (Lugar imaginario)", "Baggins, Frodo (Personaje literario)", "Chinese language materials", "Translations into Chinese", "English fiction", "Frodo Baggins (Fictitious character)"],
+    "revision": 21
+} {
+    "description": "Preceded by: [Harry Potter and the Order of the Phoenix][1]\r\n\r\nOne summer night, when Dumbledore arrives at Privet Drive to collect Harry Potter, his wand hand is blackened and shriveled, but he will not reveal why.\r\n\r\nRumours and suspicion spread through the wizarding world \u2013 it feels as if even Hogwarts itself might be under threat.\r\n\r\nHarry is convinced that Malfoy bears the Dark Mark: could there be a Death Eater amongst them?\r\n\r\nHe will need powerful magic and true friends as, with the help of Dumbledore, he investigates Voldemort\u2019s darkest secrets.\r\n\r\n([source][2])\r\n\r\nFollowed by: [Harry Potter and the Deathly Hallows][3]\r\n\r\n\r\n  [1]: https://openlibrary.org/works/OL13716955W/Harry_Potter_and_the_Order_of_the_Phoenix\r\n  [2]: https://www.jkrowling.com/book/harry-potter-half-blood-prince/\r\n  [3]: https://openlibrary.org/works/OL82586W/Harry_Potter_and_the_Deathly_Hallows",
+    "links": [{
+        "url": "https://www.jkrowling.com/book/harry-potter-half-blood-prince/",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Official Web Site"
+    }, {
+        "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Wikipedia"
+    }, {
+        "url": "https://www.theguardian.com/books/2005/jul/23/booksforchildrenandteenagers.harrypotter",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Into the gloom - review | the Guardian"
+    }],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-11T10:24:54.711653"
+    },
+    "title": "Harry Potter and the Half-Blood Prince",
+    "covers": [8560367],
+    "first_sentence": {
+        "type": "/type/text",
+        "value": "It was nearing midnight and the Prime Minister was sitting alone in his office, reading a long memo that was slipping through his brain without leaving the slightest trace of meaning behind."
+    },
+    "subject_places": ["England", "Hogwarts School of Witchcraft and Wizardry", "Privet Drive", "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)"],
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL23919A"
+        }
+    }],
+    "first_publish_date": "2005",
+    "subject_people": ["Harry Potter", "Dumbledore", "Lord Voldemort", "Draco Malfoy", "Hermione Granger", "Ron Weasley", "Tom Riddle", "Harry Potter (Fictitious character)"],
+    "key": "/works/OL13716954W",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-25T12:58:24.999386"
+    },
+    "latest_revision": 57,
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["orphans", "foster homes", "romans", "magie", "adolescence", "Quill Award winner", "Scottish Children\u2019s Book Award winner", "British Book of the Year Award winner", "Fiction", "Juvenile fiction", "Magic", "Schools", "Witches", "Wizards", "New York Times bestseller", "Fantasy fiction", "nyt:series_books=2006-07-15", "nyt:series_books=2006-09-16", "Romans, nouvelles, etc. pour la jeunesse", "Sorciers", "Roman fantastique", "Merveilleux", "Hogwarts School of Witchcraft and Wizardry (Imaginary place)", "Harry Potter (Fictitious character)", "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)", "Magos", "Magia", "Ficci\u00f3n juvenil", "Escuelas", "Novela fant\u00e1stica", "England", "School stories", "Family", "Harry Potter (Fictional character)", "Orphans & Foster Homes", "Social Themes", "Fantasy", "Fantasy & Magic", "Friendship"],
+    "revision": 57
+} {
+    "description": "A promise made twenty-eight years ago calls seven adults to reunite in Derry, Maine, where as teenagers they battled an evil creature that preyed on the city's children. Unsure that their Losers Club had vanquished the creature all those years ago, the seven had vowed to return to Derry if IT should ever reappear. Now, children are being murdered again and their repressed memories of that summer return as they prepare to do battle with the monster lurking in Derry's sewers once more.\r\n([source][1])\r\n\r\n\r\n----------\r\nSee also:\r\n\r\n - [IT 1/2][2]\r\n - [IT 2/2][3]\r\n\r\n\r\n  [1]: https://www.stephenking.com/library/novel/it.html\r\n  [2]: https://openlibrary.org/works/OL14916816W/It_1_2\r\n  [3]: https://openlibrary.org/works/OL14916818W/It_2_2",
+    "links": [{
+        "url": "https://www.stephenking.com/library/novel/it.html",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "StephenKing.com - IT"
+    }, {
+        "url": "https://en.wikipedia.org/wiki/It_(novel)",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "It (novel) - Wikipedia"
+    }, {
+        "url": "https://stephenking.fandom.com/wiki/IT",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "IT | Stephen King Wiki | FANDOM powered by Wikia"
+    }, {
+        "url": "http://mentalfloss.com/article/504275/10-things-you-might-not-know-about-stephen-kings-it",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "10 Things You Might Not Know About Stephen King's It | Mental Floss"
+    }, {
+        "url": "https://www.theverge.com/2017/9/1/16028300/stephen-king-it-movie-adaptation-book-recap-horror-summer",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Reading Stephen King's It is an exhausting way to spend a summer ..."
+    }],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-17T04:57:55.334864"
+    },
+    "title": "It",
+    "covers": [9255965, 8569284, 8573184, 4901835, 3286314],
+    "subject_places": ["Derry", "Maine", "Barrens", "Macroverse", "Earth", "England", "Chicago", "New York City", "Los Angeles", "Nebraska", "Atlanta", "Georgia"],
+    "excerpts": [{
+        "comment": "first sentence",
+        "excerpt": "The terror, which would not end for another twenty-eight years--if it ever did end--began, so far as I know or can tell, with a boat made from a sheet of newspaper floating down a gutter swollen with rain.",
+        "author": {
+            "key": "/people/seabelis"
+        }
+    }],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-11T07:58:38.661470"
+    },
+    "subject_people": ["IT", "Losers Club", "Aristotle", "Atilla the Hun", "Batman", "Bip", "Bobby", "Bop", "Bozo", "Buffalo Bob", "Chilly Willy", "Jesus Christ", "Christine", "Clarabel", "Creedence Clearwater Revival", "Curley", "Daffy Duck", "Danny and the Juniors", "Dead Bugs", "Def Leppard", "Dewey", "Dracula", "Elija", "Fabian", "Fozzie Bear", "God", "Ham", "Hansel", "Hercules", "Huey", "Iron Maiden", "Jack the Ripper", "Jonesy", "Judas Priest", "King Ahaz", "Kinky Briefcase Sexual Accountant", "Larry", "Legion", "Louie", "Madonna", "Moe", "Moses", "Mr. Chips", "Noah", "Oscar the Grouch", "Pennywise", "Pig Pen", "Pinocchio", "Popeye", "Prince", "Shep and the Limelights", "Silver", "Snuffy", "Socrates", "Superman", "Tom Terrific", "Twisted Sister", "Annie", "Billy", "Dave", "Debbie", "Delores", "Demetrios", "Fortuna", "Hilda", "Hoyt", "Lesley", "Margaret", "Mary", "Rhoda", "Rose", "Ruby", "Sandy", "Sean", "Doc Abelson", "Ansel Adams", "Adler", "Lisa Albrecht", "Mel Allen", "Allingham", "Bruce Andeen", "Paul Anderson", "Andrews Sisters", "Buddy Angstrom", "Paul Anka", "Stork Anson", "Susan B. Anthony", "Crappy Appleton", "Gresham Arnold", "Mr. Arnold", "Mrs. Arnold", "Brenda Arrowsmith", "Roger Aurlette", "Frankie Avalon", "Charles Avarino", "Johann Sebastian Bach", "LaVerne Baker", "Hank Ballard", "Moe Bandy", "Mr. Barr", "Dr. Baynes", "Benny Beaulieu", "Jerry Bellwood", "Jack Benny", "Edgar Berger", "Chuck Berry", "Andrea Bertoly", "Amsel Bickford", "Big Bopper", "Frank Billings", "Bird", "Black", "Blum", "Herbert Blum", "Patricia Blum", "Ruth Blum", "Cheyenne Bodie", "Humphrey Bogart", "Mrs. Bolton", "Skipper Bolton", "Pat Boone", "Carla Bordeaux", "Borton", "Kenny Borton", "Richard Borton", "Tom Boutiller", "Bowers", "Henry Bowers", "Mrs. Bowers", "Oscar Bowers", "Greta Bowie", "Richard Bowie", "Stephen Bowie", "Ray Bracbury", "Mr. Braddock", "Al Bradley", "George Bradley", "Truman Bradley", "Pat Brady", "George Brannock", "Mr. Brant", "Rick Brant", "Joseph Brennan", "Mr. Brockhill", "Harry Brooks", "Charles N. Brown", "H. Rap Brown", "James Brown", "Susan Browne", "Bruckner", "Branson Buddinger", "Paul Bunyan", "Burke", "George Bush", "Floyd Calderwood", "Haystack Calhoun", "Freddy Cannon", "Butch Carrington", "Alberton Carson", "Johnny Carson", "Mr. Carson", "Mrs. Casey", "Delia Castleman", "Parcick Caudy", "Edgar Cayce", "Sam Chacowica", "John Cheever", "Chopin", "Chords", "Calvin Clark", "Carlton Clark", "Cissy Clark", "Dick Clark", "Matthew Clements", "MR. Clements", "Mrs. Clements", "Clarence Clemons", "Grover Cleveland", "Coasters", "Eddie Chochran", "Gregory Cole", "Mrs. Cole", "Perry Como", "Cal Conklin", "Joe Conklin", "Conley", "Dewey Conroy", "Gary Conway", "Dorsey Corcoran", "Edward L. Corcoran. Monica Corcoran", "Steve Covall", "Frederick Cowan", "Mrs. Cowan", "Richard Cowan", "Wally Cox", "Craig", "Broderick Crawford", "Creature from the Black Lagoon", "Crests", "Andy Criss", "Victor Criss", "Davy Crockett", "Mr. Crumly", "Vic Crumly", "Jimmy Cullum", "Curtie", "Elmer Curtie", "Tony Curtis", "Franklin D'Cruz", "Idi Amin Dado", "Carole Dnner", "Bobby Darin", "Rena Davenport", "Miss Davies", "Richard Dawson", "Trevor Dawson", "James Dean", "Stringer Dedham", "Andy DeLesseps", "Audra Denbrough", "George Elmer Denbrough", "Sharon Denbrough", "William Denbrough", "Zack Denbrough", "Mrs. Denton", "Martin Devereaux", "George Deville", "Mrs. DeVille", "Andy Devine", "Moby Dick", "Bo Diddley", "Frank Dodd", "Jimmy Dodd", "Ernie K. Doe", "Robert Dohay", "Fats Domino", "Kitty Donahue", "Jimmy Donlin", "Mrs. Donlin", "Bradley Donovan", "Mr. Douglas", "Mrs. Douglas", "Dovels", "Tony Dow", "Jim Doyon", "Mrs. Doyon", "Mr. Drew", "Nancy Dres", "Mrs. Dubay", "Steven Bishoff Dubay", "Donald Duck", "Henrietta Dumont", "Eleanor Dunton", "Romeo Dupree", "Bob Dylan", "Harold Earl", "Clint Eastwood", "Dwight D. Eisenhower", "Mrs. Emerson", "Ralph Waldo Emerson", "Mr. Engstrom", "Dennis Etchison", "Dale Evans", "Marcia Fadden", "Falkland", "Jerry Falwell", "William Faulkner", "Armando Fazio", "Mr. Fazio", "Carol Feeny", "Henry Gregor Felsen", "John Feury", "W.C. Fields", "Freddie Firestone", "Stella Flanagan", "Grandmaster Flash", "Fleetwoods", "Fogarty", "Raymond Fogarty", "Frankie Ford", "Charles Fort", "Chuck Foster", "Ralph Foster", "Foxy Foxworth", "Foxworthy", "Dick Francis", "Victor Frankenstein", "Frank Frick", "Fricke", "Robert Frost", "Elmer Fudd", "Major Fuller", "Annette Funicello", "Clark Gable", "Peter Gabriel", "Mrs. Gant", "Dave Gardener", "Harold Gardener", "Mrs. Gardener", "Senator Garner", "Garton", "John Webber Garton", "Bob Gautier", "Mr. Gautier", "Marvin Gaye", "Mr. Gedreau", "Dr. Geffen", "Ellie Geiger", "Mr. Gendron", "Dizzy Gillespie", "Arnie Ginsberg", "Dr. Gladry", "Ruth Gladry", "William Goldman", "Jimmy Gordon", "Peter Grodon", "Grateful Dead", "Miss Gray", "Robert Gray", "Mrs. Greenguss", "David Grenier", "Mr. Gresham", "Veronica Grogan", "Bryant Gumble", "Don Hagaraty", "Dr. HAle", "John Hall", "Dick Hallorann", "M.K. Handey", "Russ Handor", "Howard Hanlon", "Jessica Hanlon", "Michael Hanlon", "Mr. Hanlon", "Phillip Loubird Hanlon", "Sharley Hanlon", "William Hanlon", "Arlene Hanscom", "Benjamin Hanscom", "Fenton Hardy", "Frank Hardy", "Joe HArdy", "Dr. Harkavay", "Randi Harlengen", "David Hartwell", "Marie Hauser", "Screamin' Jay Hawkins", "Jimi Hendrix", "Mrs. Henley", "Tim Henley", "Patrick Henry", "Claude Heroux", "Alfred Hitchcock", "Adolph Hitler", "Avery Hocksetter", "Mr. Hocksetter", "Patrick Hocksetter", "Buddy Holly", "Jeffrey Holly", "Sherlock Holmes", "Herbert Hoover", "Mrs. Hoover", "Phyllis Housefly", "Richie Huber", "Reginald Huggins", "Paul Hughes", "Patrick Humboldt", "Hubert Humphrey", "H.L. Hunt", "Chet Huntley", "Innes", "John Irving", "Judas Iscariot", "Isley Brothers", "Ives Burl", "Sandy Ives", "Michael Jackson", "Mr. Jacbois", "Bruc Jagermeyer", "Gard Jagermeyer", "Henry Jeames", "Dr. Jarvis", "Miss Jimmison", "Steven Johnson", "Joker", "Reverend Jollyn", "Jim Jones", "Spike Jones", "Mrs. Josephs", "Boris Karloff", "Eddie Kaspbrak", "Frank Kasbrak", "Myra Kasbrak", "Sonia Kaspbrak", "Andrew Keene", "Mrs. Keene", "Norbert Keene", "Bobby Kennedy", "Jackie Kennedy", "Ted Kennedy", "Mr. Kerpaskian", "Mr. Kersh", "Mrs. Kersh", "Nikita Khruschev", "Brent Kilgallon", "Kilgallon", "Mr. Kilgallon", "Eddie King", "Mrs. King", "Buford Kissdrivel", "Carl Kitchner", "Mr. Kitchner", "John Koontz", "Andrea Lamonica", "Cheryl Lamonica", "Mark Lamonica", "Mr. Lamonica", "Mrs. Lamonica", "Elsa Lanchester", "Michael Landon", "Frank Langella", "George Langlahan", "Larsen", "Mack Laughlin", "Francis Lederer", "Lee", "Christopher Lee", "Mr. Lee", "Ricky Lee", "Vivien Leigh", "John Lennon", "Roger Lernerd", "Jerry Lee Lewis", "Heather Libby", "Reverend Libby", "Abraham Lincoln", "Phil Linnot", "Charlotte Littlefield", "Guy Lombardo", "Jack London", "Lone Ranger", "Lottmann", "H.P. Lovecraft", "Chad Lowe", "Luces", "Robert Ludlum", "Bela Lugosi", "Frankie Lymon", "Goose Machen", "Frank MAchen", "Lal Machen", "Anita MacKenzie", "Monica Macklin", "Richard P. Macklin", "Guy Madison", "Vernon Maitland", "Gret Mallory", "Arthur Malloy", "Barry Manilow", "Markson", "John Markson", "Biff Marlow", "Marsh", "Alvin Marsh", "Beverly Marsh", "Elfrida Marsh", "Karl Massenik", "Richard Matheson", "Dan Matthews", "Kay McCall", "Gener McCarthy", "Everett McCaslin", "Gerry McCrew", "Tinker McCutcheon", "Ronald McDonald", "Father McDowell", "Stick McGhee", "Mr. McKibbon", "Freeman McNeil", "John Cougar Mellencamp", "Adrian Mellon", "Harold Metcalf", "Michaud", "Billy Mitchell", "Margaret Mitchell", "Marilyn Monroe", "Keith Moon", "Mrs. Moran", "Scooter Morgan", "Ronnie Moron", "Barney Morrison", "Jim Morrison", "Vic Morrow", "Erhardt K. Moulton", "Mickey Mouse", "Minnie Mouse", "Horst Mueller", "Mr. Mueller", "Sally Mueller", "William Mueller", "Mummy", "Thurman Munson", "Audie", "Reggie Nadler", "Alfie Naugler", "Trace Naugler", "Aloysius Nell", "Maureen Nell", "Mrs. Nelson", "Pat Nixon", "Richard Nixon", "Nostradamus", "Sergeant O'Bannon", "Ashley O'Brian", "Mike O'Hara", "Patty O'Hara", "Father O'Staggers", "Joyce Carol Oates", "Phil Ochs", "George Orwell", "Ozzy Osbourne", "Al Pacino", "Peter Pan", "Don Pardo", "Fess Barker", "Bucky Pasquale", "Patton", "Joe Paulson", "Rebecca Paulson", "Norman Vincent Peale", "Doc Pearson", "Mr. Peepers", "Penguins", "Richard Penniman", "Anthony Perkins", "Carl Perkins", "Jack Pershing", "Audra Phillips", "Owen Phillips", "Philpott", "Audrey Philpott", "Pickman", "Jake Pinette", "Piscapo", "Edgar Allan Poe", "Pope", "Mr. Porter Mrs. Portleigh", "Mark Prenderlist", "Elvis Presley", "Adrian Radamacher", "Andrew Rademacher", "Mrs. Rademacher", "Richard D. Radler", "Basil Rathbone", "Gwendolyn Rayburn", "Ronald Regan", "Robert Reddford", "George Reeves", "Jeffrey Reeves", "Paul Rever", "Andre Rhulin", "Little Richard", "Betty Ripsonm", "Mr. Ripsom", "Mrs. Ripsom", "Dr. Tobbins", "Jack Robinson", "Randy Robinson", "Brandon K. Roche", "Rogan", "Beverly Rogan", "Joey Rogan", "Megan Rogan", "Mrs. Rogan", "Ralph Rogan", "Tom Rogan", "Jimmy Rogers", "Roy Rogers", "Carl Roone", "Franklin Delano Roosevelt", "Michael Rosenblatt", "Mr. Rosenblatt", "Freddy Ross", "Herbert Ross", "Lathrop Rounds", "Butch Rowden", "Teddy Rowland", "Dawn Roy", "Bobby Russell", "Dr. Ruth", "Ryan", "Norman Sadler", "Steve Sadler", "Tommy Sands", "Horton Sartoris", "Tom Sawyer", "Dorothy Sayers", "Randolph Scott", "Willard Scott", "Neil Sedaka", "William Shakespeare", "Fulton Sheen", "Dr. Shratt", "Paul Simon", "O.J. Simpson", "Alan Snopes", "Carl Snow", "Steven Spielberg", "Spinners", "Jack Sprat", "Bruce Springsteen", "Shorty Squires", "Aubrey Stacey", "Eben Stampnell", "Vernon Stanchfield Starkweather", "Barbaba Starrett", "Stavier", "Ace Stevenson", "Dr. steward", "Dr. Stilwagon", "Anne Stuart", "Ed Sullivan", "Jim Sullivan", "Sully", "Supremes", "Jacqueline Susan", "Mr. T", "Taliendo", "Vincent Caruso Taliendo", "Joe Temmerly", "Bob Tanner", "Mr. Tanner", "Cheryl Tarrent", "Mr. Tarrent", "Elizabeth Taylor", "Adam Terrault", "Becky Thatcher", "Lars Theramenius", "Mrs. Theramenius", "Olaf Theramenius", "Mrs. Thibodeau", "Mrs. Thomas", "Phil Thomas", "Seth Thomas", "Bobby Thomson", "Egbert Thoroughgood", "Kenneth Toby", "Dennis Torrio", "Maggie Tozier", "Richard Tozier", "Wentworth Tozier", "Hamilton Tracker", "Phil Tracker", "Tony Tracker", "Tremont", "Mr. Tremont", "Forest Tucker", "Turtle", "Conway Twitty", "Christopher Phillip Unwin", "John Updike", "Andrea Uris", "Donald Uris", "Jenny Uris", "Patricia Uris", "Stanley Uris", "Richie Valens", "Charlie Van Doren", "Mrs. Van Prett", "Pancho Vanilla", "Peter Vanness", "Varney", "tommy Vicananza", "Gene Vincent", "Daddy Warbucks", "George Washington", "Mr. Waters", "John H. Watson", "John Wayne", "Jack Webb", "Mrs. Weems", "Lawrence Welk", "H.G. Wells", "Arlen Weston", "Whitman", "Bredley Whitsun", "Henry Whitsun", "Ted Williams", "Wilson", "woodrow Wilson", "Horst Winterbarger", "Laurie Ann Winterbarger", "Jim Witt", "Coach Woodleigh", "Homicidal bag-boy Wyatt", "Zinnerman", "Alfred Zitner"],
+    "key": "/works/OL81613W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL2162284A"
+        }
+    }],
+    "latest_revision": 60,
+    "subject_times": ["1957", "1958", "1984. 1985"],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["Schwinn bicycles", "catatonia", "homosexuality", "blood oaths", "Omniscience", "mummies", "lepers", "ghosts", "werewolves", "nonlinear narrative", "third-person", "Open Library Staff Picks", "Horror", "Fiction", "Good and evil", "horror stories", "horror tales", "Horror fiction"],
+    "revision": 60
+} {
+    "description": {
+        "type": "/type/text",
+        "value": "Jack Torrance, his wife Wendy, and their young son Danny move into the Overlook Hotel, where Jack has been hired as the winter caretaker. Cut off from civilization for months, Jack hopes to battle alcoholism and uncontrolled rage while writing a play. Evil forces residing in the Overlook \u2013 which has a long and violent history \u2013 covet young Danny for his precognitive powers and exploit Jack\u2019s weaknesses to try to claim the boy.\r\n([source][1])\r\n\r\n\r\n----------\r\nAlso contained in:\r\n\r\n - [Carrie / Night Shift / 'Salem's Lot / Shining](https://openlibrary.org/works/OL14917547W)\r\n\r\n  [1]: https://stephenking.com/library/novel/shining_the.html"
+    },
+    "links": [{
+        "url": "https://stephenking.com/library/novel/shining_the.html",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "StephenKing.com - The Shining"
+    }, {
+        "url": "http://viaf.org/viaf/208824373",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "VIAF ID: 208824373 (Work)"
+    }, {
+        "url": "https://en.wikipedia.org/wiki/The_Shining_(novel)",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "The Shining (novel) - Wikipedia"
+    }, {
+        "url": "https://stephenking.fandom.com/wiki/The_Shining",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "The Shining | Stephen King Wiki | Fandom"
+    }, {
+        "url": "https://www.theguardian.com/books/2012/jun/22/rereading-stephen-king-the-shining",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Rereading Stephen King: week three \u2013 The Shining | Books ..."
+    }, {
+        "url": "https://www.telegraph.co.uk/films/0/doctor-sleep-trailer-stephen-king-hates-stanley-kubricks-shining/",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Why does Stephen King hate Stanley Kubrick's The Shining ..."
+    }, {
+        "url": "https://www.indiewire.com/2016/02/stephen-king-says-stanley-kubricks-the-shining-is-like-a-big-beautiful-cadillac-with-no-engine-inside-it-83995/",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Stephen King Says Stanley Kubrick's 'The Shining' Is \u201cLike A ..."
+    }],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-17T04:57:55.334864"
+    },
+    "title": "Shining",
+    "covers": [291559, 9271455],
+    "subject_places": ["Overlook Hotel", "Colorado Rockies", "Florida", "Maine"],
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL2162284A"
+        }
+    }],
+    "first_publish_date": "January 1, 1992",
+    "subject_people": ["Jack Torrance", "Danny Torrance", "Casey", "Chug-Chug", "Dick", "Jane", "Jim", "McTeague", "Pepys", "Winnie-the-Pooh", "Wendy's mother", "Aileen", "Andy", "Brent", "Darla", "Elaine", "Jana", "Lloyd", "Mike", "Roger", "Sally", "Tom", "Tommy", "Tony", "Mr. Aaronson", "Mrs. Aaronson", "Scott Aaronson", "Astor", "Johan Sebastian Bach", "Baedecker", "Bartok", "Charles Battaglia", "Sister Beatrice", "Gary Benson", "Victor T. Boorman", "Boston Strangler", "Dick Bows", "Braddock", "Josh Brannigan", "Mrs. Brant", "Bruckner", "Truman Capote", "Neville Chamberlain", "Eddie Cochran", "Rodney Conklin", "Howard Cottrell", "Mr. Crommert", "Paul DeLong", "Denker", "Horace M. Derwent", "Sylvia Hunter Derwent", "E.L. Doctrow", "Donner Party", "Dupont", "Larry Durkin", "Bill Edmonds", "Harry Effinger", "David Felton", "Henry Finkel", "Henry Ford", "Clarke Gable", "Sir Galahad", "Vittorio Gienelli", "Delbert A. Grady", "Grimmer", "Charles Grondin", "John Gunther", "Mr. Hall", "Hallorann", "Carl Hallorann", "Dick Hallorann", "Mrs. Hallorann", "President Harding", "Warren G. Harding", "Jean Harlow", "Brian Hatfield", "George Hatfield", "Wally Hollis", "Archer Houghton", "Sylvia Hunter", "Shirley Jackson", "Robert T. Leffing", "Abraham Lincoln", "Carole Lombard", "Longfellow", "Roger Macassi", "Mr. Massey", "Mrs. Massey", "Frank Masterson", "McIver", "Arthur Miller", "Marilyn Monroe", "Benjamin Moore", "Jack Morgan", "Margery Morris", "Mr. Nevers", "Richard Nixon", "Robert Norman", "Sean Phyllis Sandler O'Casey", "Eugene O'Neil", "Charles Olson", "Pillsbury Dough-Boy", "Mr. Porsky", "Carl Prashkin", "Queems", "Robert Redford", "Nelson Rockefeller", "Franklin D. Roosevelt", "Nolan Ryan", "Phyllis Sandler", "Richard Scarne", "Frank Scoffy", "Albert Shockley", "Corbat Stani", "Tom Staunton", "Robin Stenger", "Vic Stenger", "Miss Strong", "Becky Torrance", "Brett Torrance", "Daniel Anthony Torrance", "John Daniel Torrance", "Mark Anthony Torrance", "Mike Torrance", "Winnifred Torrance", "Mr. Trent", "Zack Tunney", "Stuart Ullman", "Vanderbilt", "Carlton Vecker", "Delores Vickery", "VW Family", "Horace Walpole", "Watson", "Boyd Watson", "Mr. Watson", "Mrs. Watson", "Robert Townley Watson", "Woodrow Wilson", "Darryl F. Zanuck", "Peter Zeiss"],
+    "key": "/works/OL81633W",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-12T17:01:54.444740"
+    },
+    "latest_revision": 42,
+    "excerpts": [{
+        "comment": "first sentence",
+        "excerpt": "Jack Torrance thought: Officious little prick.",
+        "author": {
+            "key": "/people/seabelis"
+        }
+    }],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["Fiction", "horror fiction", "demonology", "precognition", "authors", "hotelkeepers", "gothic & horror", "paranormal fiction suspense & thriller", "horror", "supernatural thrillers", "ghost fiction", "horror tales", "haunted houses", "backstories", "property", "caretakers", "cabin fever", "alcoholism", "plays", "psychics", "telepathy", "clairvoyance", "ghosts", "topiary", "roque"],
+    "revision": 42
+} {
+    "description": "Against all odds, Katniss Everdeen has won the annual Hunger Games with fellow district tribute Peeta Mellark. But it was a victory won by defiance of the Capitol and their harsh rules. Katniss and Peeta should be happy.\r\n\r\nAfter all, they have just won for themselves and their families a life of safety and plenty. But there are rumors of rebellion among the subjects, and Katniss and Peeta, to their horror, are the faces of that rebellion.\r\n\r\nThe Capitol is angry. The Capitol wants revenge. Suzanne Collins continues the amazing story of Katniss Everdeen in Catching Fire, the second novel of the phenomenal Hunger Games trilogy.\r\n([source][1])\r\n\r\n\r\n  [1]: https://www.scholastic.com/thehungergames/about-the-books.htm",
+    "links": [{
+        "url": "http://www.suzannecollinsbooks.com/catching_fire_88086.htm",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "CATCHING FIRE - Suzanne Collins"
+    }, {
+        "url": "https://en.wikipedia.org/wiki/Catching_Fire",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Catching Fire - Wikipedia"
+    }, {
+        "url": "https://www.theguardian.com/childrens-books-site/2014/aug/09/review-hunger-games-catching-fire-suzanne-collins",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "The Hunger Games: Catching Fire by Suzanne Collins - review"
+    }],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-10T11:10:55.999788"
+    },
+    "title": "Catching Fire",
+    "covers": [8353612, 7238133, 6290530],
+    "subject_places": ["Panem", "the Capitol", "District 12", "District 8", "District 13", "District 7", "District 1", "District 2", "District 4"],
+    "excerpts": [{
+        "comment": "first sentence",
+        "excerpt": "I clasp the flask between my hands even thought the warmth from the tea has long since leached into the frozen air.",
+        "author": {
+            "key": "/people/seabelis"
+        }
+    }],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-14T10:51:35.615444"
+    },
+    "subject_people": ["Katniss Everdeen", "Peeta Mellark", "Gale Hawthorn", "President Snow", "Rue", "Thresh", "Bonnie", "Twill", "Haymitch", "Cinna", "Gloss", "Enobaria", "Brutus", "Effie Trinket", "Cashmere", "the Careers", "Johanna Mason", "Mags", "Beetee", "Wiress", "Finnick Odair", "Peacekeepers"],
+    "key": "/works/OL5735360W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL1394359A"
+        }
+    }],
+    "latest_revision": 90,
+    "subject_times": ["In the Future"],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["Action/Adventure", "fantasy", "teen fiction", "juvenile works", "interdependence", "independence", "Games", "Apocalyptic literature", "Competition", "teenage girls", "sisters", "poverty", "Contests", "Insurgency", "Open Library Staff Picks", "Survival", "Fiction", "Interpersonal relations", "Television programs", "Dystopias", "Adventures and Adventurers", "Television", "Courage", "Bravery", "Heroism", "Defiance and Talking Back", "Adventure and adventurers", "Girls", "Blind", "Books and reading", "Young adult fiction", "Television game shows", "Dystopian", "Science fiction", "Survival Stories", "Self-Esteem & Self-Reliance", "Action & Adventure", "JUVENILE FICTION", "Social Themes", "Survival skills"],
+    "revision": 90
+} {
+    "description": "Throughout the summer holidays after his first year at Hogwarts School of Witchcraft and Wizardry, Harry Potter has been receiving sinister warnings from a house-elf called Dobby.\r\n\r\nNow, back at school to start his second year, Harry hears unintelligible whispers echoing through the corridors.\r\n\r\nBefore long the attacks begin: students are found as if turned to stone.\r\n\r\nDobby\u2019s predictions seem to be coming true.\r\n\r\n[Source][1]\r\n\r\n\r\n  [1]: https://www.jkrowling.com/book/harry-potter-chamber-secrets/",
+    "links": [{
+        "url": "https://www.jkrowling.com/book/harry-potter-chamber-secrets/",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Author's book page"
+    }, {
+        "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Wikipedia entry"
+    }, {
+        "url": "https://www.theguardian.com/childrens-books-site/2015/mar/02/review-j-k-rowling-harry-potter-chamber-secrets",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Harry Potter and the Chamber of Secrets by J.K. Rowling - review | Children's books | The Guardian"
+    }, {
+        "url": "https://www.theguardian.com/childrens-books-site/2016/may/26/harry-potter-and-the-chamber-of-secrets-jk-rowling-review",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Harry Potter and the Chamber of Secrets by J.K. Rowling - review 2 | Children's books | The Guardian"
+    }],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-12-06T23:48:11.069669"
+    },
+    "title": "Harry Potter and the Chamber of Secrets",
+    "covers": [8392798, -1],
+    "subject_places": ["England", "London", "Hogwarts School of Witchcraft and Wizardry", "Inglaterra", "Privet Drive"],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-15T08:44:01.369171"
+    },
+    "subject_people": ["Harry Potter", "Hermione Granger", "Ron Weasley", "Albus Dumbledore", "Hagrid", "The Dursleys", "Gilderoy Lockhart", "Dobby", "Moaning Myrtle", "Ginny Weasley", "Draco Malfoy"],
+    "key": "/works/OL16313124W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL23919A"
+        }
+    }],
+    "latest_revision": 47,
+    "excerpts": [{
+        "comment": "This is the first sentence.",
+        "excerpt": "Not for the first time, an argument had broken out over breakfast at number four, Privet Drive.",
+        "author": {
+            "key": "/people/seabelis"
+        }
+    }],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["school stories", "Fiction", "Fantasy", "Nestl\u00e9 Smarties Book Prize winner", "Juvenile fiction", "Wizards", "Magic", "Schools", "Spanish language materials", "Magia", "Escuelas", "Ficci\u00f3n juvenil", "Novela fant\u00e1stica", "Hogwarts School of Witchcraft and Wizardry (Imaginary place)", "Harry Potter (Fictitious character)", "Wizards -- Juvenile fiction", "Witches", "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)", "Magos", "Translations from English", "Chinese fiction", "Orphans", "Aunts", "Uncles", "Cousins", "Determination (Personality trait) in children", "Friendship", "Potter, Harry (Fictitious character)", "Fantasy Fiction", "Witches Fiction", "Wizards Fiction", "Schools Fiction", "England Fiction", "Magic -- Juvenile fiction", "Hogwarts School of Witchcraft and Wizardry (Imaginary place) -- Juvenile fiction", "Schools -- Juvenile fiction", "Wizards -- Fiction", "Magic -- Fiction", "Schools -- Fiction", "England -- Juvenile fiction", "England -- Fiction", "Fantasy & Magic", "Action & Adventure", "Witchcraft", "Harry Potter (Fictional character)", "Engels", "Social Themes"],
+    "revision": 47
+} {
+    "description": "For Harry Potter, it\u2019s the start of another far-from-ordinary year at Hogwarts when the Knight Bus crashes through the darkness and comes to an abrupt halt in front of him.\r\n\r\nIt turns out that Sirius Black, mass-murderer and follower of Lord Voldemort, has escaped \u2013 and they say he is coming after Harry.\r\n\r\nIn his first Divination class, Professor Trelawney sees an omen of death in Harry\u2019s tea leaves.\r\n\r\nAnd perhaps most frightening of all are the Dementors patrolling the school grounds with their soul-sucking kiss \u2013 in search of fresh victims.\r\n\r\n([source][1])\r\n\r\n\r\n  [1]: https://www.jkrowling.com/book/harry-potter-prisoner-azkaban/",
+    "links": [{
+        "url": "http://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Wikipedia entry"
+    }, {
+        "url": "https://www.jkrowling.com/book/harry-potter-prisoner-azkaban/",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Author's book page"
+    }],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-11T10:24:54.711653"
+    },
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "covers": [8128322, 8465053],
+    "subject_places": ["England", "Azkaban", "Hogwarts School of Witchcraft and Wizardry (Imaginary place)"],
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL23919A"
+        }
+    }],
+    "first_publish_date": "1999",
+    "subject_people": ["Harry Potter", "Hermione Granger", "Ron Weasley", "Sirius Black", "Albus Dumbledore", "Lord Voldemort", "Professor Trelawney"],
+    "key": "/works/OL13716956W",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-24T00:00:59.584558"
+    },
+    "latest_revision": 66,
+    "excerpts": [{
+        "comment": "first sentence",
+        "excerpt": "Harry Potter was a highly unusual boy in many ways.",
+        "author": {
+            "key": "/people/seabelis"
+        }
+    }],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["fantasy fiction", "orphans", "foster homes", "fantasy", "literature", "juvenile fantasy fiction", "Locus Award winner", "Bram Stoker Award winner", "Whitbread Book Award winner", "Adventure", "Juvenile literature", "Juvenile works", "Juvenile audience", "Children's books", "Magic", "Open Library Staff Picks", "Juvenile fiction", "Wizards", "New York Times bestseller", "Schools", "nyt:series_books=2006-09-16", "Science Fiction, Fantasy, & Magic", "Hogwarts School of Witchcraft and Wizardry (Imaginary place)", "Witches", "Harry Potter (Fictitious character)", "Ficci\u00f3n juvenil", "Magos", "Magia", "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)", "Children's Books/Ages 9-12 Fiction", "Spanish: Grades 4-7", "General", "Potter, Harry (Fictitious character)", "Potter, Harry (Caracter ficticio)", "Hogwarts School of Witchcraft and Wizardry (Lugar imaginario)", "Escuelas", "Spanish language", "Literatura juvenil", "Harry Potter (Fictional character)", "Orphans & Foster Homes", "Fantasy & Magic", "French language materials", "School stories", "Family", "Fiction", "Social Themes", "Friendship"],
+    "revision": 66
+} {
+    "description": "Harry Potter is midway through his training as a wizard and his coming of age. Harry wants to get away from the pernicious Dursleys and go to the International Quidditch Cup. He wants to find out about the mysterious event that's supposed to take place at Hogwarts this year, an event involving two other rival schools of magic, and a competition that hasn't happened for a hundred years. He wants to be a normal, fourteen-year-old wizard. But unfortunately for Harry Potter, he's not normal - even by wizarding standards. And in his case, different can be deadly.\r\n\r\n\r\n----------\r\nContains:\r\n\r\n - [Harry Potter and the Goblet of Fire. 2/4](https://openlibrary.org/works/OL17910198W/Harry_Potter_and_the_Goblet_of_Fire._2_4)",
+    "links": [{
+        "url": "http://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Wikipedia entry"
+    }, {
+        "url": "https://www.jkrowling.com/book/harry-potter-goblet-fire/",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Author's Book Page"
+    }, {
+        "url": "https://www.theguardian.com/childrens-books-site/2014/apr/28/review-j-k-rowling-harry-potter-and-the-goblet-of-fire",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Harry Potter and the Goblet of Fire by J K Rowling - review (The Guardian)"
+    }, {
+        "url": "http://harrypotter.scholastic.com/goblet_of_fire/",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Official page by Scholastic"
+    }, {
+        "url": "https://harrypotter.bloomsbury.com/uk/bookshop/thebooks/",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Official page by Bloomsbury"
+    }],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-17T07:07:29.461716"
+    },
+    "title": "Harry Potter and the Goblet of Fire",
+    "covers": [8303392, 7350714, -1],
+    "subject_places": ["England", "Angleterre", "Hogwarts School of Witchcraft and Wizardry"],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-24T00:08:27.636642"
+    },
+    "subject_people": ["Harry Potter", "Dumbledore", "Hagrid", "Ron Weasley", "Hermione Granger"],
+    "key": "/works/OL82589W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL23919A"
+        }
+    }],
+    "latest_revision": 75,
+    "excerpts": [{
+        "comment": "First Sentence",
+        "excerpt": "The villagers of Little Hangleton still called it 'the Riddle House,' even though it had been many years since the Riddle family had lived there.",
+        "author": {
+            "key": "/people/seabelis"
+        }
+    }],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["orphans", "foster homes", "Waisenkind", "Intrige", "Wiederbelebung", "Bew\u00e4hrung", "Wettkampf", "Junge", "Sport", "Rettung", "Jugendbuch", "Mord", "magier", "fictitious schools", "juvenile works", "juvenile audience", "juvenile literature", "children's stories", "Fiction", "Hugo Award Winner", "Wizards", "New York Times bestseller", "nyt:series_books=2006-09-16", "Schools", "award:hugo_award=novel", "School", "Magic", "Open Library Staff Picks", "Sorcellerie", "\u00c9coles", "award:hugo_award=2001", "Sorciers", "Romans nouvelles etc. pour la jeunesse", "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)", "Hermione Granger (Fictitious character)", "Juvenile fiction", "Ron Weasley (Fictitious character)", "Harry Potter (Fictitious character)", "Magia", "Magos", "Ficci\u00f3n juvenil", "Escuelas", "Ficci\u00f3n", "Translations from English", "Magi", "Chinese fiction", "Family", "Fantasy fiction", "Hogwarts School of Witchcraft and Wizardry (Imaginary place)", "Orphans & Foster Homes", "Social Themes", "Fantasy & Magic", "Friendship", "Hugo Award", "School stories", "Harry Potter (Fictional character)"],
+    "revision": 75
+} {
+    "description": {
+        "type": "/type/text",
+        "value": "The road in front of Dr. Louis Creed's rural Maine home frequently claims the lives of neighborhood pets. Louis has recently moved from Chicago to Ludlow with his wife Rachel, their children and pet cat. Near their house, local children have created a cemetery for the dogs and cats killed by the steady stream of transports on the busy highway. Deeper in the woods lies another graveyard, an ancient Indian burial ground whose sinister properties Louis discovers when the family cat is killed.\r\n([source][1])\r\n\r\n\r\n  [1]: https://stephenking.com/library/novel/pet_sematary.html"
+    },
+    "links": [{
+        "url": "https://stephenking.com/library/novel/pet_sematary.html",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "StephenKing.com - Pet Sematary"
+    }, {
+        "url": "https://en.wikipedia.org/wiki/Pet_Sematary",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Pet Sematary - Wikipedia"
+    }, {
+        "url": "https://stephenking.fandom.com/wiki/Pet_Sematary",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Pet Sematary | Stephen King Wiki | FANDOM powered by Wikia"
+    }, {
+        "url": "https://www.indiewire.com/2019/02/pet-sematary-directors-change-stephen-king-novel-dead-daughter-1202042085/",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "\u2018Pet Sematary\u2019 Directors Get Ahead of Fan Backlash to Explain Major Change From Stephen King Novel"
+    }, {
+        "url": "https://www.slashfilm.com/pet-sematary-plot-change/",
+        "type": {
+            "key": "/type/link"
+        },
+        "title": "Stephen King Was Fine With That Major \u2018Pet Sematary\u2019 Plot Change"
+    }],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-17T04:57:55.334864"
+    },
+    "title": "Pet Sematary",
+    "covers": [9186990, 7013697],
+    "subject_places": ["Maine", "United States", "Chicago", "University of Maine", "Ludlow", "Pet Sematary"],
+    "excerpts": [{
+        "comment": "first sentence",
+        "excerpt": "Louis Creed, who had lost his father at three and who had never known a grandfather, never expected to find a father as he entered his middle age, but that was exactly what happened...although he called this man a friend, as a grown man must do when he finds the man who should have been his father relatively late in life.",
+        "author": {
+            "key": "/people/seabelis"
+        }
+    }],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-26T15:07:22.927898"
+    },
+    "subject_people": ["Biffer", "Bowser", "Cujo", "Fred", "General Patton", "Hannah", "Hanratty Zac", "Marta", "Polynesia", "Ringo", "Smucky", "Spot", "Trixie", "Wendigo", "Winston Churchill", "Carla", "Frank", "Herk", "Kim", "Marie", "Randy", "George Anderson", "Bill Baterman", "Mrs. Baterman", "Timmy Baterman", "Hannibal Benson", "Mrs. Berryman", "Louella Bisson", "Stanley Bouchard", "Alan Bowie", "Burt Bowie", "Kendall Bowie", "Dr. Bracemunn", "Mrs. Bradleigh", "George Buck", "Mrs. Buddinger", "Michael Burns", "Mrs. Cabron", "George Capon", "Joan Charlton", "Bill Cleveland", "Joan Cleveland", "Betty Coslaw", "Judson Crandall", "Norma Crandall", "Pete Crandall", "Eileen Creed", "Gage William Creed", "Louis Albert Creed", "Rachel Creed", "Ruthie Creed", "David Dandridge", "Missy Dandridge", "Roger Dandridge", "Judy DeLessio", "Tommy Dessler", "Peter Dimmart", "Donny Donahue", "Donniker", "Fritchie", "Huey Garber", "Dory Goldman", "Irwin Goldman", "Rachel Goldman", "Zelda Goldman", "Barbara Grinnell", "Rob Grinnell", "Albion Groatley", "Dana Hall", "Dean Hall", "Carl Hannah", "Surrendra Hardu", "Carl Hodge", "Ruthie Hodge", "Peter Humperton", "Richard Irving", "Will Jeppson", "Quentin L. Jolander", "Erica Jong", "Lieutenant Kinsman", "Dr. Latrhop", "Reverend Laughlin", "Pete LaVasseur", "Linda Lavesque", "Anson Ludlow", "Joesph Ludlow", "Joseph Ludlow", "Andrew Marvell", "Steve Masterton", "Zac McGovern", "Katy McGown", "Rene Michaud", "Henry Montez", "Lester Morgan", "Mortonson", "Dr. Murray", "Alberta Burnham Nedeau", "Victor Pascow", "Andy Pasioca", "Ruthie Perks", "Phipps", "Alan Purinton", "Laurine Purinton", "Lucy Purinton", "Dee Dee Ramone", "Matty Ryder", "Mr. Ryder", "Dr. Rynzwyck", "Dorothy Sayers", "Scanlon", "Ariel Sharon", "Mrs. Stapleton", "Mrs. Story", "Missus Stratton", "Wickes Sullivan", "Billy Symonds", "Mandy Symonds", "Stephen Symonds", "George Tardiff", "Troutman", "Dr. Tucker", "Mrs. Vinton", "Marjorie Washburn", "Dr. Weybridge", "Tremont Withers"],
+    "key": "/works/OL81631W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL2162284A"
+        }
+    }],
+    "latest_revision": 28,
+    "subject_times": ["1980s"],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["psychological trauma", "spinal meningitis", "flashback", "heart attack", "burial ground", "Micmac Indians", "World War II", "solitaire", "pet cemeteries", "horror", "thrillers", "suspense", "death", "Juvenile audience", "pets", "Paranormal fiction", "Horror fiction", "Horror tales", "Cemeteries", "Fiction", "Animals", "Country life", "Resurrection", "Ficci\u00f3n", "Resurrecci\u00f3n", "Sobrenatural"],
+    "revision": 28
+} {
+    "description": "Percy Jackson and his friends set out in this great adventure. Grover sets out to find the lost god Pan but gets trapped by a cyclops in an island in the sea of monsters.",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T03:33:16.906643"
+    },
+    "title": "The Sea of Monsters (Percy Jackson and the Olympians #2)",
+    "covers": [766044, 545332],
+    "subject_places": ["Bermuda Triangle", "New York", "Mexico", "New Jersey", "London", "France", "America", "England", "Turkey", "India", "Brazil", "Argentina", "China", "Washington D.C. and United States"],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-27T00:53:04.297252"
+    },
+    "subject_people": ["Peter Jhonson", "Hade Hell Naw", "Zap Zee Zu", "Posikedon", "Arbulkles", "Antsmartna", "Anny", "Goat", "Big Tank", "Carelesse", "Luketatable", "Krrabynos"],
+    "key": "/works/OL492661W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL30765A"
+        }
+    }],
+    "latest_revision": 29,
+    "subject_times": ["2005-2008"],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["Hades (Greek deity)", "Monsters", "Zeus (Greek deity)", "Greek Mythology", "Juvenile fiction", "Fathers and sons", "Fiction", "nyt:series_books=2007-07-21", "Poseidon (Greek deity)", "New York Times bestseller", "Camps", "Friendship"],
+    "revision": 29
+} {
+    "description": "Percy Jackson isn't expecting freshman orientation to be any fun, but when a mysterious mortal acquaintance appears, pursued by demon cheerleaders, things quickly go from bad to worse. Time is running out for Percy. War between the gods and the Titans is drawing near. Even Camp Half-Blood isn't safe, as Kronos's army prepares to invade its once impenetrable borders. To stop them, Percy and his friends must set out on a quest through the Labyrinth -- a sprawling underground world with surprises and danger at every turn.  Along the way Percy will confront powerful enemies, find out the truth about the lost god Pan, and face the Titan lord Kronos's most terrible secret. The final war begins . . . with the Battle of the Labyrinth. - Publisher.",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T03:33:16.906643"
+    },
+    "title": "The Battle of the Labyrinth (Percy Jackson and the Olympians #4)",
+    "covers": [6274739, -1],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-27T00:57:08.968717"
+    },
+    "latest_revision": 10,
+    "key": "/works/OL492640W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL30765A"
+        }
+    }],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["Greek mythology in fiction", "Mythical animals in fiction", "Greek Mythology", "Juvenile fiction", "Labyrinths in fiction", "Fiction", "Monsters in fiction", "Labyrinths", "Camps", "Titans (Mythology)", "Monsters", "Mythical Animals", "Camps in fiction"],
+    "revision": 10
+} {
+    "description": "All year the half-bloods have been preparing for battle against the Titans, knowing the odds of victory are grim. Kronos\u2019s army is stronger than ever, and with every god and half-blood he recruits, the evil Titan\u2019s power only grows.\r\n\r\nWhile the Olympians struggle to contain the rampaging monster Typhon, Kronos begins his advance on New York City, where Mount Olympus stands virtually unguarded. Now it\u2019s up to Percy Jackson and an army of young demigods to stop the Lord of Time. In this momentous final book in the New York Times best-selling Percy Jackson and the Olympians series, the long-awaited prophecy surrounding Percy\u2019s sixteenth birthday unfolds. And as the battle for Western civilization rages on the streets of Manhattan, Percy faces a terrifying suspicion that he may be fighting against his own fate.",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-05-08T00:06:39.866479"
+    },
+    "title": "The Last Olympian (Percy Jackson and the Olympians #5)",
+    "covers": [7263647, 6744842, 7263649, 6806915],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-27T00:58:58.195337"
+    },
+    "latest_revision": 11,
+    "key": "/works/OL15727515W",
+    "authors": [{
+        "type": {
+            "key": "/type/author_role"
+        },
+        "author": {
+            "key": "/authors/OL30765A"
+        }
+    }],
+    "type": {
+        "key": "/type/work"
+    },
+    "subjects": ["Greek Mythology", "Juvenile fiction", "Percy Jackson (Fictitious character)", "nyt:series_books=2007-07-21", "Fate and fatalism", "New York Times bestseller", "Fantasy fiction", "Fiction", "Titans (Mythology)", "Monsters", "Mythical Animals"],
+    "revision": 11
+}
