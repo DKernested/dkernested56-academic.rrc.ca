@@ -5,9 +5,7 @@ Final Project create review page
 --->
 
 <?php
- require 'authenticate.php';
-
- //  $bookTitle = "SELECT * FROM books JOIN reviews ON books.bookid = reviews.bookid WHERE book.Title == $bookClicked";
+session_start();
 
 ?>
 
@@ -17,6 +15,10 @@ Final Project create review page
     <meta charset="utf-8">
     <title>Dillon Kernested - New Post</title>
     <link rel="stylesheet" href="style.css" type="text/css">
+    <script src="https://cdn.tiny.cloud/1/qhzujaa2g0cgw5ckjenolwk13ezyw1t7a9c60zr4kw7eem4k/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script>tinymce.init({
+      selector: '#content'
+    });</script>
 </head>
 <body>
 <ul id="menu">

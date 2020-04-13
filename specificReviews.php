@@ -13,7 +13,7 @@ Final Project Reviews page for specific book.
 
   $bookClicked = $_POST['specific-book'];
 
-  $query = "SELECT * FROM books JOIN reviews ON books.bookid = reviews.bookid WHERE book.name LIKE $bookClicked";
+  $query = "SELECT * FROM books JOIN reviews ON books.bookid = reviews.bookid WHERE book.Title == $bookClicked";
 
   //returns the statement object
   $statement = $db->prepare($query);

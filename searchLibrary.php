@@ -1,14 +1,18 @@
 <?php
+//use pseudo for user login
+//$_SESSION['user'] = userid
 
 require "connect.php";
+session_start();
 
 if(isset($_POST['searchButton']) && isset($_POST['book-search'])) 
 { 
-    $_POST  = filter_input_array(INPUT_POST, FILTER_SANITIZE_STRING);
+    $limit = $_POST['limit'];   
 
-    $bookSearch = $_POST['book-search'];
+    //$bookSearch = $_POST['book-search'];
+    $bookSearch = filter_input(INPUT_POST, 'book-search', FILTER_SANITIZE_FULL_SPECIAL_CHARS);
 
-    $searchQuery = "SELECT * FROM books WHERE OriginalTitle LIKE '%$bookSearch%' OR Author LIKE '%$bookSearch%'";
+    $searchQuery = "SELECT * FROM books WHERE OriginalTitle LIKE '%$bookSearch%' OR Author LIKE '%$bookSearch%' $limit";
 
     $searchStatement = $db->prepare($searchQuery);
 
@@ -17,15 +21,15 @@ if(isset($_POST['searchButton']) && isset($_POST['book-search']))
 
     $searchStatement ->execute();
     $books = $searchStatement->fetchAll();
-
 }
 
 
 ?>
 
+<!DOCTYPE HTML>
 <html>
     <head>
-
+        <title>Searched Library Page</title>
     </head>
     <body>
     <ul id="menu">
@@ -44,24 +48,35 @@ if(isset($_POST['searchButton']) && isset($_POST['book-search']))
             <button id="searchButton" name="searchButton" type="submit">Search</button> 
         </div>
         </div>
+        </div>
+    
         <div>
+        <select name="limit" id="limit">
+        <option value="">-select search limit-</option>
+        <option value="LIMIT 5">5</option>
+        <option value="LIMIT 10">10</option>
+        <option value="LIMIT 25">25</option>
+        <option value="LIMIT 50">50</option>
+        </select>
+        </div>
         <table class="table is-fullwidth is-hoverable park"> 
             <thead> 
                 <tr>
                     <td>Title</td>
                     <td>Author</td>
                     <td>Year published</td>
-                    <td>ISBN</td>               
-        </div>
+                    <td>ISBN</td>  
+                </tr>
+                             
         <?php foreach ($books as $book): ?>
-            <div class="book">
+            <tr>
                     <td><?= $book['Title']?></td>
                     <td><?= $book['Author'] ?></td>
                     <td><?= $book['OriginalPublicationYear']?></td>
                     <td><?=$book['ISBN']?> </td>
-                    <td><a name="specific-book" href="specificReviews.php?BookId= <?= $books['BookId'] ?>">View Reviews</a></td>
                 </tr>
-            </div>
         <?php endforeach; ?>
+        </table>
+        </form>
     </body>
 </html>

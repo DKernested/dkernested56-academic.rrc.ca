@@ -5,6 +5,7 @@ Final Project verifypost page verification for reviews
 --->
 
 <?php
+session_start();
 	
 	//check to make sure title and content are not empty
 	if($_POST && (!empty($_POST['Title']) && (!empty($_POST['Content']))))
@@ -12,7 +13,8 @@ Final Project verifypost page verification for reviews
 		//uses connect.php and sanitizes the values.
 		require ('connect.php');
 		$Title = filter_input(INPUT_POST, 'Title', FILTER_SANITIZE_FULL_SPECIAL_CHARS);
-		$Content = filter_input(INPUT_POST, 'Content', FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+		//$Content = filter_input(INPUT_POST, 'Content', FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+		$Content = $_POST['Content'];
 
 		//insert statement query
 		$query = "INSERT INTO reviews (Title, Content) VALUES (:Title, :Content)";
@@ -23,6 +25,7 @@ Final Project verifypost page verification for reviews
 		$statement->bindValue(':Content', $Content);
 		//execute the statement
 		$statement->execute();
+			
 		header("Location: reviews.php");
 		exit;
 	}
@@ -37,7 +40,7 @@ Final Project verifypost page verification for reviews
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Post Error</title>
+    <title>Account Error</title>
     <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>

@@ -1,30 +1,30 @@
 <!--
 Dillon Kernested
 Web Dev
-Final Project Edit review page
+Final Project Edit user page
 --->
 
 <?php
-  require 'connect.php';
-  session_start();
+    require 'connect.php';
+    require 'authenticate.php';
 
   //checks if the id has a value and gets the value. 
-	if (isset($_GET['ReviewId']))
+	if (isset($_GET['UserId']))
 	{
-		$ReviewId = filter_input(INPUT_GET, 'ReviewId', FILTER_SANITIZE_NUMBER_INT);
+		$UserId = filter_input(INPUT_GET, 'UserId', FILTER_SANITIZE_NUMBER_INT);
 
     //Creates the select statement query
-		$selectQuery = "SELECT * from reviews WHERE ReviewId = :ReviewId LIMIT 1";
+		$selectQuery = "SELECT * from users WHERE UserId = :UserId LIMIT 1";
 
     //returns the statement object
 		$selectStatement = $db->prepare($selectQuery);
 
     //bind the value of id to the select statement
-		$selectStatement->bindValue('ReviewId', $ReviewId, PDO::PARAM_INT);
+		$selectStatement->bindValue('UserId', $UserId, PDO::PARAM_INT);
     
     //executes the statement
 		$selectStatement->execute();
-    $select = $selectStatement->fetch();
+		$select = $selectStatement->fetch();
 	}
 
 ?>
@@ -34,10 +34,6 @@ Final Project Edit review page
     <meta charset="utf-8">
     <title>K6 Bookzone - Edit Post</title>
     <link rel="stylesheet" href="style.css" type="text/css">
-    <script src="https://cdn.tiny.cloud/1/qhzujaa2g0cgw5ckjenolwk13ezyw1t7a9c60zr4kw7eem4k/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
-    <script>tinymce.init({
-      selector: '#content'
-    });</script>
   </head>
 <body>
     <div id="wrapper">
@@ -51,21 +47,21 @@ Final Project Edit review page
           <li><a href="create.php" >New Review</a></li>
 </ul> <!-- END div ReviewId="menu" -->
 <div id="all_reviews">
-  <form action="updatedelete.php" method="post">
+  <form action="updatedeleteUser.php" method="post">
     <fieldset>
       <legend>Edit Review Post</legend>
       <p>
-        <label for="title">Title</label>
-        <input name="title" id="title" value="<?= $select['Title'] ?>" />
+        <label for="title">Username</label>
+        <input name="username" id="username" value="<?= $select['Username'] ?>" />
       </p>
       <p>
-        <label for="content">Content</label>
-        <textarea name="content" id="content"><?= $select['Content'] ?></textarea>
+        <label for="email">Email</label>
+        <textarea name="email" id="email"><?= $select['Email'] ?></textarea>
       </p>
       <p>
-        <input type="hidden" name="ReviewId" value="<?= $select['ReviewId'] ?>" />
-        <input type="submit" name="update" value="Update" />
-        <input type="submit" name="delete" value="Delete"  />
+        <input type="hidden" name="UserId" value="<?= $select['UserId'] ?>" />
+        <input type="submit" name="update" value="update" />
+        <input type="submit" name="delete" value="delete"  />
       </p>
     </fieldset>
   </form>
