@@ -7,9 +7,12 @@ Final project Show review page
 <?php
   require 'authenticate.php';
   require 'connect.php';
+  session_start();
 
   //get the id from the post and sanatize the variable
   $ReviewId = filter_input(INPUT_GET, 'ReviewId', FILTER_SANITIZE_NUMBER_INT);
+  $CommentId = filter_input(INPUT_GET, 'CommentId', FILTER_SANITIZE_NUMBER_INT);
+  $_SESSION['url'] = "show.php?ReviewId=" . $ReviewId;
 
   //create statement
   $titleSelect = "SELECT * from reviews WHERE ReviewId = :ReviewId";
@@ -21,6 +24,17 @@ Final project Show review page
   //Executes statement 
   $statement->execute();
   $show = $statement->fetch();
+
+  $commentSelect = "SELECT * from comments WHERE ReviewId = :ReviewId";
+
+  $commentStatement = $db->prepare($commentSelect);
+  $commentStatement->bindValue('ReviewId', $ReviewId, PDO::PARAM_INT);
+  //$commentStatement->bindValue('CommentId', $CommentId, PDO::PARAM_INT);
+
+  $commentStatement->execute();
+  $showComments = $commentStatement->fetchAll();
+
+  print_r($CommentId)
 
 ?>
 
@@ -47,14 +61,33 @@ Final project Show review page
         <p>
           <small>
             <?=date("F j, Y, h:i A",strtotime(($show['Date']))) ?>
-            <a href="edit.php?id= <?= $id ?>">edit</a>
+            <a href="edit.php?ReviewId=<?=$ReviewId ?>">edit</a>
           </small>
         </p>
         <div class='review_content'>
+         
           <?= $show['Content'] ?>
+            
         </div>
+        <p>
+          <?php if(!empty($_SESSION['Logged_In'])) :?>
+            <a href="createComment.php?ReviewId=<?=$ReviewId?>">Comment</a>
+          <?php endif; ?>
+        </p>
     </div>
   </div>
+  <?php foreach ($showComments as $comments): ?>
+  <h3><?=$comments['Username']?></h3>
+  <p>
+    <small>
+      <?=date("F j, Y, h:i A",strtotime(($comments['Date']))) ?>
+      <?php if(!empty($_SESSION['admin'])) : ?>
+      <a href="editComment.php?CommentId=<?=$comments['CommentId']?>">edit comment</a>
+      <?php endif; ?>
+    </small>
+  </p>
+   <?=$comments['Content']?>
+  <?php endforeach; ?>
         <div id="footer">
             Dillon Kernested 2020 - No Rights Reserved
         </div> <!-- END div id="footer" -->
