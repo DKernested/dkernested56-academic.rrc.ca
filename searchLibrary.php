@@ -4,15 +4,50 @@
 
 require "connect.php";
 session_start();
+/*
+$ItemsPerPage = 8;
+    $TotalRows = 0;
+    if (isset($_GET['page'])) {
+        $page = filter_input(INPUT_GET, 'page', FILTER_SANITIZE_NUMBER_INT);
+    } else {
+        $page = 1;
+    }
+    $StartFromItem = ($page - 1) * $ItemsPerPage;
+*/
+        
+/*    
+$bookSearch = filter_input(INPUT_POST, 'book-search', FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+    $searchQuery = "SELECT * FROM books WHERE OriginalTitle LIKE '%$bookSearch%' OR Author LIKE '%$bookSearch%' LIMIT $StartFromItem, $ItemsPerPage";
+    //LIMIT $StartFromItem, $ItemsPerPage
+    $searchStatement = $db->prepare($searchQuery);
 
-if(isset($_POST['searchButton']) && isset($_POST['book-search'])) 
+    $searchStatement->bindValue(':OriginalTitle', $bookSearch);
+    $searchStatement->bindValue(':Author', $bookSearch);
+
+    $searchStatement ->execute();
+    $books = $searchStatement->fetchAll();
+
+    $ItemCountQuery = "SELECT COUNT(*) FROM Books WHERE OriginalTitle LIKE %$bookSearch% OR Author LIKE %$bookSearch% ";
+    $ItemCountStatement = $db->prepare($ItemCountQuery);
+    $ItemCountStatement->execute();
+    $TotalRows = $ItemCountStatement->fetchAll();
+
+    
+   // $TotalRows[1]['COUNT(*)'];
+
+    $TotalPages = ceil($TotalRows[1]['COUNT(*)']/$ItemsPerPage);
+
+*/
+if(empty($_POST['book-search']) || isset($_POST['book-search'])) 
 { 
+    
     $limit = $_POST['limit'];   
 
     //$bookSearch = $_POST['book-search'];
     $bookSearch = filter_input(INPUT_POST, 'book-search', FILTER_SANITIZE_FULL_SPECIAL_CHARS);
 
     $searchQuery = "SELECT * FROM books WHERE OriginalTitle LIKE '%$bookSearch%' OR Author LIKE '%$bookSearch%' $limit";
+    //LIMIT $StartFromItem, $ItemsPerPage
 
     $searchStatement = $db->prepare($searchQuery);
 
@@ -21,8 +56,12 @@ if(isset($_POST['searchButton']) && isset($_POST['book-search']))
 
     $searchStatement ->execute();
     $books = $searchStatement->fetchAll();
-}
 
+
+   // print_r($books);
+  //  print_r($searchQuery);
+   // print_r($searchStatement);
+}
 
 ?>
 
@@ -32,6 +71,7 @@ if(isset($_POST['searchButton']) && isset($_POST['book-search']))
         <title>Searched Library Page</title>
     </head>
     <body>
+    <h1><?=print_r($TotalRows);?></h1>
     <ul id="menu">
           <li><a href="index.php" >Home</a></li>
           <li><a href="library.php" >Library</a></li>
@@ -57,8 +97,8 @@ if(isset($_POST['searchButton']) && isset($_POST['book-search']))
         <option value="LIMIT 10">10</option>
         <option value="LIMIT 25">25</option>
         <option value="LIMIT 50">50</option>
-        </select>
-        </div>
+        </select> 
+        </div> 
         <table class="table is-fullwidth is-hoverable park"> 
             <thead> 
                 <tr>
@@ -77,6 +117,11 @@ if(isset($_POST['searchButton']) && isset($_POST['book-search']))
                 </tr>
         <?php endforeach; ?>
         </table>
+          <ul>
+			<?php for($i = 1; $i<=$TotalPages; $i++) : ?>
+				<li><a href="searchLibrary.php?page=<?= $i ?>"><?= $i ?></a></li>
+			<?php endfor ?>
+		</ul>
         </form>
     </body>
 </html>

@@ -10,6 +10,11 @@ Final Project create review page
  $username = $_SESSION['username'];
  $ReviewId = filter_input(INPUT_GET, 'ReviewId', FILTER_SANITIZE_NUMBER_INT);
 
+ if(empty($_SESSION['Logged_In']))
+  {
+    header("Location: reviews.php");
+  }
+
 ?>
 
 <!DOCTYPE html>

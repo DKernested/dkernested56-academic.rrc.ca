@@ -55,8 +55,8 @@ Final Project Reviews page
           <li><a href="index.php" >Home</a></li>
           <li><a href="library.php" >Library</a></li>
           <li><a href="reviews.php" class='active'>Recent Reviews</a></li>
-          <li><a href="create.php" >New Review</a></li>
           <?php if(!empty($_SESSION['Logged_In'])) :?>
+          <li><a href="create.php" >New Review</a></li>
           <li><a href="allReviews.php">List All Reviews</a></li>
           <?php endif ?>
         </ul> <!-- END div id="menu" -->
@@ -67,7 +67,9 @@ Final Project Reviews page
             <p>
               <small>
                 <?=date("F j, Y, h:i A",strtotime(($review['Date']))) ?>
+               <?php if(!empty($_SESSION['admin'])) :?>
                 <a href="edit.php?ReviewId=<?= $review['ReviewId']?>">edit</a>
+               <?php endif; ?>
               </small>
             </p>
           <?php if(strlen($review['Content'])<201):?>

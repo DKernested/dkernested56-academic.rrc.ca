@@ -7,6 +7,11 @@ Final Project create review page
 <?php
 session_start();
 
+if(empty($_SESSION['Logged_In']))
+{
+  header("Location: reviews.php");
+}
+
 ?>
 
 <!DOCTYPE html>

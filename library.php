@@ -9,8 +9,17 @@ Final Project View books table
     require 'connect.php'; 
     session_start();
 
+    $ItemsPerPage = 100;
+    $TotalRows = 0;
+    if (isset($_GET['page'])) {
+        $page = filter_input(INPUT_GET, 'page', FILTER_SANITIZE_NUMBER_INT);
+    } else {
+        $page = 1;
+    }
+    $StartFromItem = ($page - 1) * $ItemsPerPage;
+
     //creates the statement in the variable query
-    $query = "SELECT * FROM books ORDER BY Title ASC";
+    $query = "SELECT * FROM books ORDER BY Title ASC LIMIT $StartFromItem, $ItemsPerPage";
 
     //returns the statement object
     $statement = $db->prepare($query);
@@ -18,6 +27,17 @@ Final Project View books table
     //executes the statements
     $statement->execute();
     $books = $statement->fetchAll();
+
+    
+    $ItemCountQuery = "SELECT COUNT(*) FROM Books";
+    $ItemCountStatement = $db->prepare($ItemCountQuery);
+    $ItemCountStatement->execute();
+    $TotalRows = $ItemCountStatement->fetchAll();
+
+    
+    $TotalRows[0]['COUNT(*)'];
+
+    $TotalPages = ceil($TotalRows[0]['COUNT(*)']/$ItemsPerPage);
   
 //CSV file recieved on github at https://gist.github.com/jaidevd/23aef12e9bf56c618c41   
 ?>
@@ -75,5 +95,11 @@ Final Project View books table
                     <td><?=$book['ISBN']?> </td>
                 </tr>
         <?php endforeach; ?>
+        </table>
+        <ul>
+			<?php for($i = 1; $i<=$TotalPages; $i++) : ?>
+				<li><a href="library.php?page=<?= $i ?>"><?= $i ?></a></li>
+			<?php endfor ?>
+		</ul>
     </body>
 </html>

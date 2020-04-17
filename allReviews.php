@@ -22,7 +22,20 @@ Final Project Reviews page
   if(isset($_GET['refreshButton'])) 
   {
     $order = $_GET['order'];
+ /*   if($order = 'Hot')
+    {
+        $commentQuery = "SELECT * FROM comments WHERE COUNT(ReviewId) > 3";
+
+        $commentQueryPrep = $db->prepare($commentQuery);
+        $commentQueryPrep->execute();
+        $commentQueryResult = $commentQueryPrep->fetchAll();
+
+        $orderedQuery = "SELECT * FROM reviews WHERE $commentQueryPrep";
+    }
+    else
+    {*/
     $orderedQuery = "SELECT * FROM reviews ORDER BY $order ASC";
+    
     
     $orderStatement = $db->prepare($orderedQuery);
 
@@ -30,9 +43,8 @@ Final Project Reviews page
 
     $orderStatement ->execute();
     $orderedReviews = $orderStatement->fetchAll();
+
   }
-//print_r($query);
-//print_r($orderedQuery);
 
   
 ?>
@@ -72,6 +84,7 @@ Final Project Reviews page
         <option value="Title">Order By Title</option>
         <option value="Date">Order By Date Created</option>
         <option value="Content">Order By Content</option>
+       <!-- <option value="Hot">Order By Hot</option>-->
         </select>
         <div> 
             <button id="refreshButton" name="refreshButton" type="submit">Refresh List</button> 
@@ -91,15 +104,18 @@ Final Project Reviews page
             </p>
             <?php if(strlen($review['Content'])<201):?>
               <div class='review_content'>
-               <?= $review['Content'] ?> 
-              </div>
+               <?= $review['Content'] ?> <a href="show.php?ReviewId=<?= $review['ReviewId']?>">Read Comments</a>
+              </div> 
             <?php endif; ?>
             <?php if(strlen($review['Content'])>200) :?>
              <div class='review_content'>
-               <?= substr($review['Content'], 0,200)  ?> <a href="show.php?ReviewId=<?= $review['ReviewId']?>">Read More</a>
+               <?= substr($review['Content'], 0,200)  ?> <a href="show.php?ReviewId=<?= $review['ReviewId']?>">Read All</a>
               </div>
             <?php endif; ?>
             </div>
+            <?php if(!empty($_SESSION['Logged_In'])) :?>
+              <a href="createComment.php?ReviewId= <?= $review['ReviewId'] ?>">Comment</a>
+              <?php endif ?>
             <?php endforeach; ?>
             <?php endif; ?>
 

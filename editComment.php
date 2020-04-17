@@ -8,6 +8,11 @@ Final Project Edit comment page
   require 'connect.php';
   session_start();
 
+  if(empty($_SESSION['Logged_In']))
+  {
+    header("Location: reviews.php");
+  }
+
   //checks if the id has a value and gets the value. 
 	if (isset($_GET['CommentId']))
 	{

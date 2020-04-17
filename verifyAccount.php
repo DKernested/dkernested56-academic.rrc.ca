@@ -5,11 +5,13 @@ require ('connect.php');
 	//check to make sure title and content are not empty
     if($_POST && (!empty($_POST['username']) && (!empty($_POST['username']) && (!empty($_POST['password']) && (!empty($_POST['repeatPassword']))))))
 	{
-		//uses connect.php and sanitizes the values.
+        //uses connect.php and sanitizes the values.
+        //$userId = filter_input(INPUT_GET, 'userId', FILTER_SANITIZE_NUMBER_INT);
         $username = filter_input(INPUT_POST, 'username', FILTER_SANITIZE_FULL_SPECIAL_CHARS);
         $email = filter_input(INPUT_POST, 'email', FILTER_SANITIZE_FULL_SPECIAL_CHARS);
         $password = filter_input(INPUT_POST, 'password', FILTER_SANITIZE_FULL_SPECIAL_CHARS);
         $repeatPassword = filter_input(INPUT_POST, 'repeatPassword', FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+        $hash = password_hash($password, PASSWORD_DEFAULT);
 
         //SELECT * FROM `users` WHERE username = 'User01'
         $checkUsername = "SELECT * FROM users WHERE username = :username";

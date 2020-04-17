@@ -2,6 +2,11 @@
     require 'connect.php';
     require 'authenticate.php';
     session_start();
+
+    if(empty($_SESSION['Logged_In']))
+    {
+    header("Location: reviews.php");
+    }
 ?>
 
 <html>

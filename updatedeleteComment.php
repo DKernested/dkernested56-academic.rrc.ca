@@ -7,7 +7,12 @@ Final Project Update Delete review page
 <?php
 	require "connect.php";
 	session_start();
-	
+    
+    if(empty($_SESSION['Logged_In']))
+{
+  header("Location: reviews.php");
+}
+
 	if(isset($_POST['delete'])) 
 	{ 
 			//Checks for the CommentId of the post and sanatizes it.

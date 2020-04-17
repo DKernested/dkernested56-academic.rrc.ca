@@ -47,7 +47,9 @@ Final Project Reviews page for specific book.
             <p>
               <small>
                 <?=date("F j, Y, h:i A",strtotime(($review['Date']))) ?>
+                <?php if(!empty($_SESSION['Logged_In'])) :?>
                 <a href="edit.php?ReviewId=<?= $review['ReviewId']?>">edit</a>
+                <?php endif;?>
               </small>
             </p>
             <?php if(strlen($review['Content'])<201):?>
